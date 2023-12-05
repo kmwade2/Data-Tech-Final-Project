@@ -1,0 +1,1743 @@
+City,Date,Type,Severity,Count,city,mon,avg_star,avg_review_count,restaurant_number
+Indianapolis,01-2019,Cold,Severe,1,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Fog,Moderate,7,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Fog,Severe,10,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Hail,Other,1,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Rain,Light,43,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Rain,Moderate,5,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Snow,Heavy,1,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Snow,Light,66,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Snow,Moderate,14,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2019,Storm,Severe,1,Indianapolis,01-2019,3.900718608,356.9376,902
+Indianapolis,01-2020,Fog,Moderate,3,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Fog,Severe,25,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Precipitation,UNK,2,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Rain,Heavy,3,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Rain,Light,77,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Rain,Moderate,20,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Snow,Light,51,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2020,Snow,Moderate,2,Indianapolis,01-2020,3.922678505,311.5287,920
+Indianapolis,01-2021,Fog,Severe,26,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2021,Rain,Light,25,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2021,Rain,Moderate,8,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2021,Snow,Heavy,4,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2021,Snow,Light,52,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2021,Snow,Moderate,13,Indianapolis,01-2021,4.021309771,268.1892,742
+Indianapolis,01-2022,Fog,Moderate,9,Indianapolis,01-2022,3.995165189,286.2756,634
+Indianapolis,01-2022,Fog,Severe,10,Indianapolis,01-2022,3.995165189,286.2756,634
+Indianapolis,01-2022,Rain,Light,11,Indianapolis,01-2022,3.995165189,286.2756,634
+Indianapolis,01-2022,Rain,Moderate,2,Indianapolis,01-2022,3.995165189,286.2756,634
+Indianapolis,01-2022,Snow,Light,39,Indianapolis,01-2022,3.995165189,286.2756,634
+Indianapolis,02-2019,Fog,Moderate,13,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Fog,Severe,29,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Rain,Heavy,3,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Rain,Light,73,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Rain,Moderate,20,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Snow,Heavy,1,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Snow,Light,40,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2019,Snow,Moderate,15,Indianapolis,02-2019,3.916129032,334.6308,945
+Indianapolis,02-2020,Fog,Severe,22,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2020,Rain,Light,57,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2020,Rain,Moderate,13,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2020,Snow,Heavy,5,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2020,Snow,Light,52,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2020,Snow,Moderate,7,Indianapolis,02-2020,3.943803498,303.5199,947
+Indianapolis,02-2021,Fog,Moderate,11,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Fog,Severe,3,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Rain,Light,26,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Rain,Moderate,4,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Snow,Heavy,2,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Snow,Light,50,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,02-2021,Snow,Moderate,10,Indianapolis,02-2021,4.023325358,266.5335,708
+Indianapolis,03-2019,Fog,Moderate,7,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Fog,Severe,7,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Hail,Other,1,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Rain,Heavy,4,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Rain,Light,75,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Rain,Moderate,22,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Snow,Heavy,3,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Snow,Light,26,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2019,Snow,Moderate,7,Indianapolis,03-2019,3.885182908,336.1903,997
+Indianapolis,03-2020,Fog,Moderate,1,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Fog,Severe,32,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Precipitation,UNK,2,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Rain,Heavy,1,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Rain,Light,101,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Rain,Moderate,11,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Snow,Heavy,5,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Snow,Light,16,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2020,Snow,Moderate,7,Indianapolis,03-2020,3.932198327,302.4881,771
+Indianapolis,03-2021,Fog,Severe,10,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,03-2021,Precipitation,UNK,13,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,03-2021,Rain,Heavy,7,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,03-2021,Rain,Light,61,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,03-2021,Rain,Moderate,16,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,03-2021,Storm,Severe,1,Indianapolis,03-2021,3.999046256,259.0343,828
+Indianapolis,04-2019,Fog,Moderate,3,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Fog,Severe,12,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Precipitation,UNK,3,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Rain,Heavy,4,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Rain,Light,72,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Rain,Moderate,21,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2019,Snow,Light,2,Indianapolis,04-2019,3.897511234,359.756,944
+Indianapolis,04-2020,Fog,Moderate,1,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2020,Fog,Severe,8,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2020,Rain,Light,72,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2020,Rain,Moderate,4,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2020,Snow,Light,1,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2020,Storm,Severe,1,Indianapolis,04-2020,3.881109022,244.0959,581
+Indianapolis,04-2021,Fog,Severe,5,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Precipitation,UNK,4,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Rain,Heavy,6,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Rain,Light,56,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Rain,Moderate,13,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Snow,Heavy,3,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Snow,Light,10,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,04-2021,Snow,Moderate,8,Indianapolis,04-2021,3.98631905,248.2468,809
+Indianapolis,05-2019,Fog,Severe,21,Indianapolis,05-2019,3.893040795,336.1203,976
+Indianapolis,05-2019,Precipitation,UNK,4,Indianapolis,05-2019,3.893040795,336.1203,976
+Indianapolis,05-2019,Rain,Heavy,1,Indianapolis,05-2019,3.893040795,336.1203,976
+Indianapolis,05-2019,Rain,Light,95,Indianapolis,05-2019,3.893040795,336.1203,976
+Indianapolis,05-2019,Rain,Moderate,20,Indianapolis,05-2019,3.893040795,336.1203,976
+Indianapolis,05-2020,Fog,Moderate,1,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2020,Fog,Severe,4,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2020,Precipitation,UNK,4,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2020,Rain,Heavy,5,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2020,Rain,Light,95,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2020,Rain,Moderate,17,Indianapolis,05-2020,3.82278481,252.8413,592
+Indianapolis,05-2021,Fog,Moderate,4,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,05-2021,Fog,Severe,3,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,05-2021,Precipitation,UNK,2,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,05-2021,Rain,Heavy,2,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,05-2021,Rain,Light,83,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,05-2021,Rain,Moderate,17,Indianapolis,05-2021,3.979435676,261.7623,839
+Indianapolis,06-2019,Fog,Moderate,3,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Fog,Severe,18,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Precipitation,UNK,11,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Rain,Heavy,2,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Rain,Light,83,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Rain,Moderate,19,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2019,Storm,Severe,1,Indianapolis,06-2019,3.877009646,338.5527,1029
+Indianapolis,06-2020,Fog,Moderate,1,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2020,Fog,Severe,20,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2020,Precipitation,UNK,8,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2020,Rain,Heavy,6,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2020,Rain,Light,47,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2020,Rain,Moderate,11,Indianapolis,06-2020,3.947507552,288.1193,655
+Indianapolis,06-2021,Fog,Severe,3,Indianapolis,06-2021,4.012148642,277.9886,814
+Indianapolis,06-2021,Precipitation,UNK,14,Indianapolis,06-2021,4.012148642,277.9886,814
+Indianapolis,06-2021,Rain,Heavy,7,Indianapolis,06-2021,4.012148642,277.9886,814
+Indianapolis,06-2021,Rain,Light,86,Indianapolis,06-2021,4.012148642,277.9886,814
+Indianapolis,06-2021,Rain,Moderate,16,Indianapolis,06-2021,4.012148642,277.9886,814
+Indianapolis,07-2019,Fog,Moderate,2,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Fog,Severe,3,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Precipitation,UNK,5,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Rain,Heavy,5,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Rain,Light,42,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Rain,Moderate,12,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2019,Storm,Severe,1,Indianapolis,07-2019,3.917245945,363.472,964
+Indianapolis,07-2020,Fog,Moderate,5,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Fog,Severe,15,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Precipitation,UNK,7,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Rain,Heavy,4,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Rain,Light,45,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Rain,Moderate,10,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2020,Storm,Severe,1,Indianapolis,07-2020,3.91671624,264.5568,775
+Indianapolis,07-2021,Cold,Severe,1,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Fog,Moderate,14,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Fog,Severe,3,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Precipitation,UNK,10,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Rain,Heavy,4,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Rain,Light,62,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,07-2021,Rain,Moderate,24,Indianapolis,07-2021,4.028863232,286.0848,836
+Indianapolis,08-2019,Fog,Moderate,1,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Fog,Severe,8,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Precipitation,UNK,5,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Rain,Heavy,3,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Rain,Light,57,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Rain,Moderate,17,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2019,Storm,Severe,1,Indianapolis,08-2019,3.915535206,343.246,1021
+Indianapolis,08-2020,Fog,Severe,3,Indianapolis,08-2020,3.984569572,293.3887,765
+Indianapolis,08-2020,Precipitation,UNK,7,Indianapolis,08-2020,3.984569572,293.3887,765
+Indianapolis,08-2020,Rain,Heavy,6,Indianapolis,08-2020,3.984569572,293.3887,765
+Indianapolis,08-2020,Rain,Light,41,Indianapolis,08-2020,3.984569572,293.3887,765
+Indianapolis,08-2020,Rain,Moderate,6,Indianapolis,08-2020,3.984569572,293.3887,765
+Indianapolis,08-2021,Fog,Moderate,8,Indianapolis,08-2021,3.989498806,292.1227,824
+Indianapolis,08-2021,Fog,Severe,12,Indianapolis,08-2021,3.989498806,292.1227,824
+Indianapolis,08-2021,Precipitation,UNK,1,Indianapolis,08-2021,3.989498806,292.1227,824
+Indianapolis,08-2021,Rain,Light,35,Indianapolis,08-2021,3.989498806,292.1227,824
+Indianapolis,08-2021,Rain,Moderate,1,Indianapolis,08-2021,3.989498806,292.1227,824
+Indianapolis,09-2019,Fog,Moderate,3,Indianapolis,09-2019,3.906695156,350.8981,944
+Indianapolis,09-2019,Fog,Severe,11,Indianapolis,09-2019,3.906695156,350.8981,944
+Indianapolis,09-2019,Rain,Heavy,1,Indianapolis,09-2019,3.906695156,350.8981,944
+Indianapolis,09-2019,Rain,Light,22,Indianapolis,09-2019,3.906695156,350.8981,944
+Indianapolis,09-2019,Rain,Moderate,4,Indianapolis,09-2019,3.906695156,350.8981,944
+Indianapolis,09-2020,Fog,Moderate,6,Indianapolis,09-2020,3.941581785,304.737,730
+Indianapolis,09-2020,Fog,Severe,19,Indianapolis,09-2020,3.941581785,304.737,730
+Indianapolis,09-2020,Rain,Light,16,Indianapolis,09-2020,3.941581785,304.737,730
+Indianapolis,09-2020,Rain,Moderate,1,Indianapolis,09-2020,3.941581785,304.737,730
+Indianapolis,09-2021,Fog,Severe,1,Indianapolis,09-2021,3.977531455,279.0509,741
+Indianapolis,09-2021,Precipitation,UNK,4,Indianapolis,09-2021,3.977531455,279.0509,741
+Indianapolis,09-2021,Rain,Heavy,4,Indianapolis,09-2021,3.977531455,279.0509,741
+Indianapolis,09-2021,Rain,Light,55,Indianapolis,09-2021,3.977531455,279.0509,741
+Indianapolis,09-2021,Rain,Moderate,20,Indianapolis,09-2021,3.977531455,279.0509,741
+Indianapolis,10-2019,Fog,Severe,13,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2019,Precipitation,UNK,2,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2019,Rain,Heavy,5,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2019,Rain,Light,72,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2019,Rain,Moderate,25,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2019,Snow,Light,2,Indianapolis,10-2019,3.909966024,340.4209,889
+Indianapolis,10-2020,Fog,Moderate,4,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2020,Fog,Severe,17,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2020,Precipitation,UNK,7,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2020,Rain,Heavy,3,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2020,Rain,Light,85,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2020,Rain,Moderate,25,Indianapolis,10-2020,3.970162224,297.6547,733
+Indianapolis,10-2021,Fog,Moderate,3,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,10-2021,Fog,Severe,43,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,10-2021,Precipitation,UNK,15,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,10-2021,Rain,Heavy,13,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,10-2021,Rain,Light,122,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,10-2021,Rain,Moderate,40,Indianapolis,10-2021,3.978555304,273.5525,786
+Indianapolis,11-2019,Fog,Moderate,8,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Fog,Severe,18,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Rain,Heavy,1,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Rain,Light,58,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Rain,Moderate,15,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Snow,Light,8,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Snow,Moderate,3,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2019,Storm,Severe,1,Indianapolis,11-2019,3.866223908,311.8406,945
+Indianapolis,11-2020,Fog,Moderate,1,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Fog,Severe,1,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Rain,Heavy,1,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Rain,Light,63,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Rain,Moderate,25,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Snow,Light,6,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2020,Storm,Severe,1,Indianapolis,11-2020,3.966873706,293.8157,695
+Indianapolis,11-2021,Fog,Moderate,1,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,11-2021,Fog,Severe,4,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,11-2021,Rain,Light,27,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,11-2021,Rain,Moderate,7,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,11-2021,Snow,Light,11,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,11-2021,Snow,Moderate,1,Indianapolis,11-2021,3.99641577,277.4976,721
+Indianapolis,12-2019,Fog,Moderate,5,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Fog,Severe,34,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Rain,Light,55,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Rain,Moderate,10,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Snow,Heavy,4,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Snow,Light,30,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2019,Snow,Moderate,16,Indianapolis,12-2019,3.900883838,314.4731,875
+Indianapolis,12-2020,Fog,Moderate,3,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Fog,Severe,9,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Rain,Light,37,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Rain,Moderate,5,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Snow,Heavy,2,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Snow,Light,28,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2020,Snow,Moderate,7,Indianapolis,12-2020,3.967391304,267.2068,727
+Indianapolis,12-2021,Fog,Moderate,2,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Fog,Severe,31,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Precipitation,UNK,1,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Rain,Heavy,1,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Rain,Light,70,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Rain,Moderate,22,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Snow,Light,1,Indianapolis,12-2021,3.967988668,266.3116,774
+Indianapolis,12-2021,Storm,Severe,1,Indianapolis,12-2021,3.967988668,266.3116,774
+Nashville,01-2019,Fog,Moderate,4,Nashville,01-2019,3.917361111,792.5353,881
+Nashville,01-2019,Hail,Other,1,Nashville,01-2019,3.917361111,792.5353,881
+Nashville,01-2019,Rain,Light,42,Nashville,01-2019,3.917361111,792.5353,881
+Nashville,01-2019,Rain,Moderate,12,Nashville,01-2019,3.917361111,792.5353,881
+Nashville,01-2019,Snow,Light,6,Nashville,01-2019,3.917361111,792.5353,881
+Nashville,01-2020,Fog,Moderate,5,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Fog,Severe,7,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Precipitation,UNK,4,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Rain,Heavy,1,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Rain,Light,50,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Rain,Moderate,11,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2020,Snow,Light,3,Nashville,01-2020,3.911282697,696.7747,861
+Nashville,01-2021,Fog,Moderate,6,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Fog,Severe,7,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Precipitation,UNK,3,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Rain,Heavy,2,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Rain,Light,34,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Rain,Moderate,5,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2021,Snow,Light,7,Nashville,01-2021,3.97355507,557.4357,698
+Nashville,01-2022,Fog,Moderate,6,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Fog,Severe,1,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Precipitation,UNK,1,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Rain,Heavy,5,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Rain,Light,27,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Rain,Moderate,11,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Snow,Heavy,5,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Snow,Light,16,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,01-2022,Snow,Moderate,10,Nashville,01-2022,3.931721194,566.8905,613
+Nashville,02-2019,Fog,Moderate,1,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2019,Fog,Severe,2,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2019,Precipitation,UNK,1,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2019,Rain,Heavy,9,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2019,Rain,Light,71,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2019,Rain,Moderate,32,Nashville,02-2019,3.90500424,788.5174,884
+Nashville,02-2020,Fog,Moderate,3,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Fog,Severe,10,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Precipitation,UNK,1,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Rain,Heavy,2,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Rain,Light,72,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Rain,Moderate,18,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Snow,Light,10,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2020,Snow,Moderate,4,Nashville,02-2020,3.922539399,690.785,889
+Nashville,02-2021,Fog,Moderate,8,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Fog,Severe,26,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Precipitation,UNK,2,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Rain,Light,21,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Rain,Moderate,2,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Snow,Heavy,3,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Snow,Light,24,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,02-2021,Snow,Moderate,7,Nashville,02-2021,3.958451906,576.6938,686
+Nashville,03-2019,Fog,Moderate,1,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2019,Precipitation,UNK,1,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2019,Rain,Heavy,4,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2019,Rain,Light,28,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2019,Rain,Moderate,7,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2019,Snow,Light,1,Nashville,03-2019,3.878794743,753.3034,957
+Nashville,03-2020,Fog,Severe,4,Nashville,03-2020,3.928787116,722.4645,745
+Nashville,03-2020,Precipitation,UNK,1,Nashville,03-2020,3.928787116,722.4645,745
+Nashville,03-2020,Rain,Heavy,3,Nashville,03-2020,3.928787116,722.4645,745
+Nashville,03-2020,Rain,Light,57,Nashville,03-2020,3.928787116,722.4645,745
+Nashville,03-2020,Rain,Moderate,17,Nashville,03-2020,3.928787116,722.4645,745
+Nashville,03-2021,Fog,Severe,3,Nashville,03-2021,3.972610722,651.0082,773
+Nashville,03-2021,Precipitation,UNK,10,Nashville,03-2021,3.972610722,651.0082,773
+Nashville,03-2021,Rain,Heavy,5,Nashville,03-2021,3.972610722,651.0082,773
+Nashville,03-2021,Rain,Light,42,Nashville,03-2021,3.972610722,651.0082,773
+Nashville,03-2021,Rain,Moderate,18,Nashville,03-2021,3.972610722,651.0082,773
+Nashville,04-2019,Fog,Moderate,1,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2019,Fog,Severe,6,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2019,Precipitation,UNK,6,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2019,Rain,Heavy,2,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2019,Rain,Light,36,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2019,Rain,Moderate,14,Nashville,04-2019,3.885317658,749.4822,964
+Nashville,04-2020,Fog,Moderate,3,Nashville,04-2020,3.895419847,463.1908,426
+Nashville,04-2020,Precipitation,UNK,3,Nashville,04-2020,3.895419847,463.1908,426
+Nashville,04-2020,Rain,Heavy,2,Nashville,04-2020,3.895419847,463.1908,426
+Nashville,04-2020,Rain,Light,34,Nashville,04-2020,3.895419847,463.1908,426
+Nashville,04-2020,Rain,Moderate,9,Nashville,04-2020,3.895419847,463.1908,426
+Nashville,04-2021,Fog,Moderate,1,Nashville,04-2021,3.956529647,615.6697,811
+Nashville,04-2021,Precipitation,UNK,2,Nashville,04-2021,3.956529647,615.6697,811
+Nashville,04-2021,Rain,Heavy,1,Nashville,04-2021,3.956529647,615.6697,811
+Nashville,04-2021,Rain,Light,19,Nashville,04-2021,3.956529647,615.6697,811
+Nashville,04-2021,Rain,Moderate,5,Nashville,04-2021,3.956529647,615.6697,811
+Nashville,05-2019,Fog,Moderate,3,Nashville,05-2019,3.892814371,807.2077,959
+Nashville,05-2019,Fog,Severe,1,Nashville,05-2019,3.892814371,807.2077,959
+Nashville,05-2019,Rain,Light,22,Nashville,05-2019,3.892814371,807.2077,959
+Nashville,05-2019,Rain,Moderate,3,Nashville,05-2019,3.892814371,807.2077,959
+Nashville,05-2020,Fog,Severe,2,Nashville,05-2020,3.938180019,555.5262,506
+Nashville,05-2020,Precipitation,UNK,2,Nashville,05-2020,3.938180019,555.5262,506
+Nashville,05-2020,Rain,Light,37,Nashville,05-2020,3.938180019,555.5262,506
+Nashville,05-2020,Rain,Moderate,8,Nashville,05-2020,3.938180019,555.5262,506
+Nashville,05-2021,Fog,Severe,4,Nashville,05-2021,3.955928481,628.9558,847
+Nashville,05-2021,Precipitation,UNK,4,Nashville,05-2021,3.955928481,628.9558,847
+Nashville,05-2021,Rain,Heavy,1,Nashville,05-2021,3.955928481,628.9558,847
+Nashville,05-2021,Rain,Light,36,Nashville,05-2021,3.955928481,628.9558,847
+Nashville,05-2021,Rain,Moderate,12,Nashville,05-2021,3.955928481,628.9558,847
+Nashville,06-2019,Precipitation,UNK,9,Nashville,06-2019,3.923757277,827.1585,944
+Nashville,06-2019,Rain,Heavy,5,Nashville,06-2019,3.923757277,827.1585,944
+Nashville,06-2019,Rain,Light,35,Nashville,06-2019,3.923757277,827.1585,944
+Nashville,06-2019,Rain,Moderate,14,Nashville,06-2019,3.923757277,827.1585,944
+Nashville,06-2019,Storm,Severe,2,Nashville,06-2019,3.923757277,827.1585,944
+Nashville,06-2020,Fog,Moderate,1,Nashville,06-2020,3.974789915,592.2323,672
+Nashville,06-2020,Precipitation,UNK,8,Nashville,06-2020,3.974789915,592.2323,672
+Nashville,06-2020,Rain,Heavy,2,Nashville,06-2020,3.974789915,592.2323,672
+Nashville,06-2020,Rain,Light,15,Nashville,06-2020,3.974789915,592.2323,672
+Nashville,06-2020,Rain,Moderate,7,Nashville,06-2020,3.974789915,592.2323,672
+Nashville,06-2021,Fog,Moderate,2,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,06-2021,Fog,Severe,1,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,06-2021,Rain,Heavy,1,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,06-2021,Rain,Light,25,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,06-2021,Rain,Moderate,4,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,06-2021,Storm,Severe,1,Nashville,06-2021,3.978720099,617.8875,841
+Nashville,07-2019,Fog,Severe,1,Nashville,07-2019,3.889207563,794.5052,997
+Nashville,07-2019,Precipitation,UNK,5,Nashville,07-2019,3.889207563,794.5052,997
+Nashville,07-2019,Rain,Heavy,3,Nashville,07-2019,3.889207563,794.5052,997
+Nashville,07-2019,Rain,Light,28,Nashville,07-2019,3.889207563,794.5052,997
+Nashville,07-2019,Rain,Moderate,9,Nashville,07-2019,3.889207563,794.5052,997
+Nashville,07-2020,Fog,Moderate,2,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2020,Fog,Severe,1,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2020,Precipitation,UNK,7,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2020,Rain,Heavy,1,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2020,Rain,Light,25,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2020,Rain,Moderate,6,Nashville,07-2020,3.950331125,648.9873,674
+Nashville,07-2021,Fog,Moderate,12,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,07-2021,Fog,Severe,1,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,07-2021,Precipitation,UNK,3,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,07-2021,Rain,Heavy,2,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,07-2021,Rain,Light,15,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,07-2021,Rain,Moderate,4,Nashville,07-2021,3.954624027,634.6396,884
+Nashville,08-2019,Fog,Moderate,2,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2019,Fog,Severe,4,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2019,Precipitation,UNK,5,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2019,Rain,Heavy,2,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2019,Rain,Light,11,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2019,Rain,Moderate,4,Nashville,08-2019,3.911885245,741.9101,966
+Nashville,08-2020,Fog,Moderate,2,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2020,Fog,Severe,5,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2020,Precipitation,UNK,7,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2020,Rain,Heavy,5,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2020,Rain,Light,31,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2020,Rain,Moderate,7,Nashville,08-2020,3.965133531,637.3867,698
+Nashville,08-2021,Fog,Moderate,6,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,08-2021,Fog,Severe,3,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,08-2021,Precipitation,UNK,6,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,08-2021,Rain,Heavy,5,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,08-2021,Rain,Light,26,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,08-2021,Rain,Moderate,12,Nashville,08-2021,3.949685534,567.7497,887
+Nashville,09-2019,Fog,Moderate,3,Nashville,09-2019,3.906333414,773.3846,945
+Nashville,09-2019,Fog,Severe,2,Nashville,09-2019,3.906333414,773.3846,945
+Nashville,09-2019,Rain,Light,2,Nashville,09-2019,3.906333414,773.3846,945
+Nashville,09-2020,Fog,Moderate,1,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2020,Fog,Severe,2,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2020,Precipitation,UNK,2,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2020,Rain,Heavy,1,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2020,Rain,Light,19,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2020,Rain,Moderate,7,Nashville,09-2020,3.961004784,624.3909,719
+Nashville,09-2021,Fog,Moderate,4,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,09-2021,Fog,Severe,3,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,09-2021,Precipitation,UNK,1,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,09-2021,Rain,Heavy,3,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,09-2021,Rain,Light,26,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,09-2021,Rain,Moderate,14,Nashville,09-2021,3.953004054,624.0804,816
+Nashville,10-2019,Fog,Moderate,4,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2019,Fog,Severe,8,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2019,Precipitation,UNK,3,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2019,Rain,Heavy,4,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2019,Rain,Light,44,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2019,Rain,Moderate,15,Nashville,10-2019,3.906622023,757.7289,976
+Nashville,10-2020,Fog,Moderate,8,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2020,Fog,Severe,12,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2020,Precipitation,UNK,2,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2020,Rain,Heavy,1,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2020,Rain,Light,32,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2020,Rain,Moderate,6,Nashville,10-2020,3.973876063,648.0494,766
+Nashville,10-2021,Fog,Moderate,2,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,10-2021,Fog,Severe,2,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,10-2021,Precipitation,UNK,4,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,10-2021,Rain,Heavy,5,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,10-2021,Rain,Light,33,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,10-2021,Rain,Moderate,10,Nashville,10-2021,3.964807888,574.8803,854
+Nashville,11-2019,Fog,Moderate,6,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Fog,Severe,3,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Precipitation,UNK,1,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Rain,Heavy,2,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Rain,Light,26,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Rain,Moderate,11,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Snow,Light,2,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2019,Snow,Moderate,2,Nashville,11-2019,3.891304347,728.5799,918
+Nashville,11-2020,Fog,Moderate,4,Nashville,11-2020,3.981880509,683.0686,688
+Nashville,11-2020,Fog,Severe,2,Nashville,11-2020,3.981880509,683.0686,688
+Nashville,11-2020,Rain,Light,18,Nashville,11-2020,3.981880509,683.0686,688
+Nashville,11-2020,Rain,Moderate,4,Nashville,11-2020,3.981880509,683.0686,688
+Nashville,11-2020,Snow,Light,1,Nashville,11-2020,3.981880509,683.0686,688
+Nashville,11-2021,Fog,Moderate,3,Nashville,11-2021,3.922809172,579.0725,782
+Nashville,11-2021,Fog,Severe,8,Nashville,11-2021,3.922809172,579.0725,782
+Nashville,11-2021,Precipitation,UNK,1,Nashville,11-2021,3.922809172,579.0725,782
+Nashville,11-2021,Rain,Light,12,Nashville,11-2021,3.922809172,579.0725,782
+Nashville,11-2021,Rain,Moderate,3,Nashville,11-2021,3.922809172,579.0725,782
+Nashville,12-2019,Fog,Moderate,8,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Fog,Severe,7,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Precipitation,UNK,3,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Rain,Heavy,5,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Rain,Light,47,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Rain,Moderate,14,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2019,Snow,Light,3,Nashville,12-2019,3.892980256,740.943,891
+Nashville,12-2020,Fog,Moderate,3,Nashville,12-2020,3.982107843,638.5564,722
+Nashville,12-2020,Fog,Severe,7,Nashville,12-2020,3.982107843,638.5564,722
+Nashville,12-2020,Rain,Light,29,Nashville,12-2020,3.982107843,638.5564,722
+Nashville,12-2020,Rain,Moderate,8,Nashville,12-2020,3.982107843,638.5564,722
+Nashville,12-2020,Snow,Light,4,Nashville,12-2020,3.982107843,638.5564,722
+Nashville,12-2021,Fog,Moderate,7,Nashville,12-2021,3.920304777,621.1421,809
+Nashville,12-2021,Fog,Severe,4,Nashville,12-2021,3.920304777,621.1421,809
+Nashville,12-2021,Precipitation,UNK,1,Nashville,12-2021,3.920304777,621.1421,809
+Nashville,12-2021,Rain,Heavy,2,Nashville,12-2021,3.920304777,621.1421,809
+Nashville,12-2021,Rain,Light,27,Nashville,12-2021,3.920304777,621.1421,809
+Nashville,12-2021,Rain,Moderate,7,Nashville,12-2021,3.920304777,621.1421,809
+New Orleans,01-2019,Fog,Moderate,21,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2019,Fog,Severe,80,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2019,Rain,Heavy,7,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2019,Rain,Light,94,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2019,Rain,Moderate,28,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2019,Storm,Severe,2,New Orleans,01-2019,4.001895649,1405.6976,929
+New Orleans,01-2020,Fog,Moderate,18,New Orleans,01-2020,4.021840873,1329.9335,917
+New Orleans,01-2020,Fog,Severe,48,New Orleans,01-2020,4.021840873,1329.9335,917
+New Orleans,01-2020,Precipitation,UNK,3,New Orleans,01-2020,4.021840873,1329.9335,917
+New Orleans,01-2020,Rain,Light,103,New Orleans,01-2020,4.021840873,1329.9335,917
+New Orleans,01-2020,Rain,Moderate,38,New Orleans,01-2020,4.021840873,1329.9335,917
+New Orleans,01-2021,Fog,Severe,70,New Orleans,01-2021,4.048216976,1120.9915,668
+New Orleans,01-2021,Precipitation,UNK,3,New Orleans,01-2021,4.048216976,1120.9915,668
+New Orleans,01-2021,Rain,Heavy,3,New Orleans,01-2021,4.048216976,1120.9915,668
+New Orleans,01-2021,Rain,Light,63,New Orleans,01-2021,4.048216976,1120.9915,668
+New Orleans,01-2021,Rain,Moderate,16,New Orleans,01-2021,4.048216976,1120.9915,668
+New Orleans,01-2022,Cold,Severe,1,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Fog,Moderate,5,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Fog,Severe,22,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Precipitation,UNK,3,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Rain,Heavy,2,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Rain,Light,47,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Rain,Moderate,16,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,01-2022,Storm,Severe,2,New Orleans,01-2022,4.027233782,1292.5569,567
+New Orleans,02-2019,Fog,Moderate,26,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2019,Fog,Severe,101,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2019,Precipitation,UNK,11,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2019,Rain,Heavy,14,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2019,Rain,Light,110,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2019,Rain,Moderate,25,New Orleans,02-2019,4.006912861,1457.4573,901
+New Orleans,02-2020,Cold,Severe,2,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Fog,Moderate,7,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Fog,Severe,57,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Precipitation,UNK,16,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Rain,Heavy,9,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Rain,Light,91,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Rain,Moderate,24,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2020,Storm,Severe,2,New Orleans,02-2020,4.013743326,1291.3704,902
+New Orleans,02-2021,Cold,Severe,8,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Fog,Moderate,14,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Fog,Severe,77,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Precipitation,UNK,6,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Rain,Heavy,3,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Rain,Light,71,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Rain,Moderate,28,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Snow,Heavy,1,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,02-2021,Snow,Light,1,New Orleans,02-2021,4.040159699,1084.8976,681
+New Orleans,03-2019,Fog,Moderate,14,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2019,Fog,Severe,30,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2019,Precipitation,UNK,2,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2019,Rain,Heavy,2,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2019,Rain,Light,73,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2019,Rain,Moderate,16,New Orleans,03-2019,3.986996009,1397.1017,995
+New Orleans,03-2020,Cold,Severe,16,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Fog,Moderate,9,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Fog,Severe,62,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Precipitation,UNK,1,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Rain,Heavy,2,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Rain,Light,38,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2020,Rain,Moderate,5,New Orleans,03-2020,4.011281883,1347.792,772
+New Orleans,03-2021,Fog,Moderate,8,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Fog,Severe,51,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Precipitation,UNK,33,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Rain,Heavy,18,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Rain,Light,85,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Rain,Moderate,47,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,03-2021,Storm,Severe,2,New Orleans,03-2021,4.02757715,1134.2196,755
+New Orleans,04-2019,Cold,Severe,2,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Fog,Moderate,5,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Fog,Severe,5,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Precipitation,UNK,23,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Rain,Heavy,6,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Rain,Light,82,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Rain,Moderate,17,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2019,Storm,Severe,2,New Orleans,04-2019,4.009967051,1406.9931,919
+New Orleans,04-2020,Cold,Severe,4,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Fog,Moderate,8,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Fog,Severe,15,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Precipitation,UNK,15,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Rain,Heavy,1,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Rain,Light,37,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Rain,Moderate,12,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2020,Storm,Severe,4,New Orleans,04-2020,3.94876033,1015.476,358
+New Orleans,04-2021,Cold,Severe,4,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Fog,Moderate,4,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Fog,Severe,10,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Precipitation,UNK,30,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Rain,Heavy,11,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Rain,Light,119,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Rain,Moderate,24,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,04-2021,Storm,Severe,6,New Orleans,04-2021,4.036245954,1206.8214,748
+New Orleans,05-2019,Fog,Moderate,11,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2019,Fog,Severe,27,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2019,Precipitation,UNK,29,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2019,Rain,Heavy,17,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2019,Rain,Light,75,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2019,Rain,Moderate,15,New Orleans,05-2019,4.0122398,1352.837,949
+New Orleans,05-2020,Cold,Severe,2,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Fog,Moderate,5,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Fog,Severe,15,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Precipitation,UNK,16,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Rain,Heavy,6,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Rain,Light,93,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2020,Rain,Moderate,18,New Orleans,05-2020,4.0,898.1858,450
+New Orleans,05-2021,Cold,Severe,3,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Fog,Moderate,9,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Fog,Severe,12,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Precipitation,UNK,48,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Rain,Heavy,26,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Rain,Light,101,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,05-2021,Rain,Moderate,32,New Orleans,05-2021,4.027841561,1181.8375,778
+New Orleans,06-2019,Cold,Severe,2,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Fog,Moderate,48,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Fog,Severe,10,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Precipitation,UNK,11,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Rain,Heavy,5,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Rain,Light,59,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Rain,Moderate,11,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2019,Storm,Severe,2,New Orleans,06-2019,4.005286183,1408.3066,918
+New Orleans,06-2020,Fog,Moderate,15,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Fog,Severe,14,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Precipitation,UNK,12,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Rain,Heavy,9,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Rain,Light,127,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Rain,Moderate,31,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2020,Storm,Severe,6,New Orleans,06-2020,3.993913043,954.7843,506
+New Orleans,06-2021,Cold,Severe,2,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Fog,Moderate,3,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Fog,Severe,13,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Precipitation,UNK,23,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Rain,Heavy,22,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Rain,Light,142,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,06-2021,Rain,Moderate,33,New Orleans,06-2021,4.020162381,1274.0744,771
+New Orleans,07-2019,Cold,Severe,5,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Fog,Moderate,23,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Fog,Severe,14,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Precipitation,UNK,23,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Rain,Heavy,21,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Rain,Light,155,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Rain,Moderate,39,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2019,Storm,Severe,2,New Orleans,07-2019,3.983802667,1373.8274,890
+New Orleans,07-2020,Fog,Moderate,14,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2020,Fog,Severe,14,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2020,Precipitation,UNK,31,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2020,Rain,Heavy,15,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2020,Rain,Light,127,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2020,Rain,Moderate,38,New Orleans,07-2020,4.015182884,939.4175,575
+New Orleans,07-2021,Fog,Moderate,3,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Fog,Severe,15,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Precipitation,UNK,21,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Rain,Heavy,8,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Rain,Light,88,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Rain,Moderate,27,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,07-2021,Storm,Severe,2,New Orleans,07-2021,4.016346429,1214.6562,759
+New Orleans,08-2019,Cold,Severe,2,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Fog,Moderate,15,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Fog,Severe,13,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Precipitation,UNK,10,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Rain,Heavy,6,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Rain,Light,104,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Rain,Moderate,16,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2019,Storm,Severe,1,New Orleans,08-2019,4.000774893,1416.4822,926
+New Orleans,08-2020,Fog,Moderate,9,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Fog,Severe,12,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Precipitation,UNK,14,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Rain,Heavy,8,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Rain,Light,86,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Rain,Moderate,20,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2020,Storm,Severe,3,New Orleans,08-2020,4.04263341,1128.6195,597
+New Orleans,08-2021,Cold,Severe,4,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Fog,Moderate,6,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Fog,Severe,14,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Precipitation,UNK,24,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Rain,Heavy,11,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Rain,Light,96,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Rain,Moderate,29,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,08-2021,Storm,Severe,6,New Orleans,08-2021,4.035741885,1143.8381,688
+New Orleans,09-2019,Fog,Moderate,25,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2019,Fog,Severe,49,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2019,Precipitation,UNK,2,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2019,Rain,Heavy,6,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2019,Rain,Light,27,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2019,Rain,Moderate,4,New Orleans,09-2019,4.00052356,1368.1154,901
+New Orleans,09-2020,Cold,Severe,2,New Orleans,09-2020,4.021524141,1139.8999,594
+New Orleans,09-2020,Fog,Moderate,16,New Orleans,09-2020,4.021524141,1139.8999,594
+New Orleans,09-2020,Fog,Severe,20,New Orleans,09-2020,4.021524141,1139.8999,594
+New Orleans,09-2020,Rain,Light,79,New Orleans,09-2020,4.021524141,1139.8999,594
+New Orleans,09-2021,Cold,Severe,3,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Fog,Moderate,3,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Fog,Severe,40,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Precipitation,UNK,8,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Rain,Heavy,16,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Rain,Light,80,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,09-2021,Rain,Moderate,31,New Orleans,09-2021,4.036045314,1018.5716,479
+New Orleans,10-2019,Cold,Severe,11,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Fog,Moderate,9,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Fog,Severe,32,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Precipitation,UNK,12,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Rain,Heavy,9,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Rain,Light,143,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2019,Rain,Moderate,38,New Orleans,10-2019,4.010318573,1422.7111,914
+New Orleans,10-2020,Cold,Severe,12,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Fog,Moderate,3,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Fog,Severe,37,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Precipitation,UNK,3,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Rain,Heavy,1,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Rain,Light,33,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Rain,Moderate,5,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2020,Storm,Severe,2,New Orleans,10-2020,4.034126163,1118.6768,598
+New Orleans,10-2021,Fog,Moderate,10,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,10-2021,Fog,Severe,50,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,10-2021,Precipitation,UNK,10,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,10-2021,Rain,Heavy,5,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,10-2021,Rain,Light,36,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,10-2021,Rain,Moderate,11,New Orleans,10-2021,4.027704485,1034.3338,685
+New Orleans,11-2019,Fog,Moderate,9,New Orleans,11-2019,4.00768203,1391.7914,895
+New Orleans,11-2019,Fog,Severe,47,New Orleans,11-2019,4.00768203,1391.7914,895
+New Orleans,11-2019,Precipitation,UNK,1,New Orleans,11-2019,4.00768203,1391.7914,895
+New Orleans,11-2019,Rain,Light,37,New Orleans,11-2019,4.00768203,1391.7914,895
+New Orleans,11-2019,Rain,Moderate,4,New Orleans,11-2019,4.00768203,1391.7914,895
+New Orleans,11-2020,Cold,Severe,28,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Fog,Moderate,9,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Fog,Severe,51,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Precipitation,UNK,5,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Rain,Heavy,1,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Rain,Light,39,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2020,Rain,Moderate,1,New Orleans,11-2020,4.024064171,1118.5524,647
+New Orleans,11-2021,Cold,Severe,2,New Orleans,11-2021,4.052316602,1208.9892,691
+New Orleans,11-2021,Fog,Moderate,11,New Orleans,11-2021,4.052316602,1208.9892,691
+New Orleans,11-2021,Fog,Severe,39,New Orleans,11-2021,4.052316602,1208.9892,691
+New Orleans,11-2021,Rain,Light,25,New Orleans,11-2021,4.052316602,1208.9892,691
+New Orleans,11-2021,Rain,Moderate,3,New Orleans,11-2021,4.052316602,1208.9892,691
+New Orleans,12-2019,Cold,Severe,1,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Fog,Moderate,6,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Fog,Severe,70,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Precipitation,UNK,4,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Rain,Heavy,4,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Rain,Light,88,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2019,Rain,Moderate,17,New Orleans,12-2019,4.00591409,1360.8078,890
+New Orleans,12-2020,Cold,Severe,4,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Fog,Moderate,8,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Fog,Severe,39,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Precipitation,UNK,6,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Rain,Heavy,7,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Rain,Light,69,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Rain,Moderate,23,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2020,Storm,Severe,4,New Orleans,12-2020,4.04735376,1099.3671,615
+New Orleans,12-2021,Fog,Moderate,7,New Orleans,12-2021,4.040936717,1182.9328,707
+New Orleans,12-2021,Fog,Severe,104,New Orleans,12-2021,4.040936717,1182.9328,707
+New Orleans,12-2021,Precipitation,UNK,4,New Orleans,12-2021,4.040936717,1182.9328,707
+New Orleans,12-2021,Rain,Light,54,New Orleans,12-2021,4.040936717,1182.9328,707
+New Orleans,12-2021,Rain,Moderate,4,New Orleans,12-2021,4.040936717,1182.9328,707
+New Orleans,12-2021,Storm,Severe,2,New Orleans,12-2021,4.040936717,1182.9328,707
+Philadelphia,01-2019,Fog,Moderate,12,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Fog,Severe,3,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Hail,Other,2,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Rain,Light,55,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Rain,Moderate,29,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Snow,Light,22,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Snow,Moderate,2,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2019,Storm,Severe,1,Philadelphia,01-2019,3.897417503,586.5807,1821
+Philadelphia,01-2020,Fog,Moderate,9,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Fog,Severe,15,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Rain,Heavy,5,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Rain,Light,41,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Rain,Moderate,11,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Snow,Light,18,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2020,Snow,Moderate,6,Philadelphia,01-2020,3.898688585,536.7872,1745
+Philadelphia,01-2021,Fog,Moderate,20,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2021,Fog,Severe,21,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2021,Rain,Light,33,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2021,Rain,Moderate,7,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2021,Snow,Light,9,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2021,Snow,Moderate,3,Philadelphia,01-2021,3.954200084,490.6547,1155
+Philadelphia,01-2022,Cold,Severe,1,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Fog,Moderate,3,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Fog,Severe,11,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Precipitation,UNK,2,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Rain,Heavy,3,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Rain,Light,34,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Rain,Moderate,9,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Snow,Heavy,2,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Snow,Light,35,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,01-2022,Snow,Moderate,15,Philadelphia,01-2022,3.973045822,600.9466,970
+Philadelphia,02-2019,Fog,Moderate,27,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Fog,Severe,3,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Rain,Light,50,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Rain,Moderate,9,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Snow,Heavy,1,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Snow,Light,26,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2019,Snow,Moderate,11,Philadelphia,02-2019,3.890828138,563.3866,1843
+Philadelphia,02-2020,Fog,Moderate,4,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Fog,Severe,27,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Precipitation,UNK,1,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Rain,Light,74,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Rain,Moderate,9,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Snow,Light,2,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2020,Storm,Severe,2,Philadelphia,02-2020,3.911545988,526.4736,1679
+Philadelphia,02-2021,Fog,Moderate,11,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Fog,Severe,35,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Precipitation,UNK,1,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Rain,Light,47,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Rain,Moderate,18,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Snow,Heavy,20,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Snow,Light,66,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,02-2021,Snow,Moderate,37,Philadelphia,02-2021,3.987432675,493.4439,1111
+Philadelphia,03-2019,Fog,Moderate,14,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Fog,Severe,3,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Hail,Other,1,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Rain,Heavy,1,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Rain,Light,53,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Rain,Moderate,16,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Snow,Heavy,9,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Snow,Light,16,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2019,Snow,Moderate,7,Philadelphia,03-2019,3.892096545,570.6231,1883
+Philadelphia,03-2020,Fog,Moderate,5,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2020,Fog,Severe,22,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2020,Rain,Heavy,2,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2020,Rain,Light,79,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2020,Rain,Moderate,26,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2020,Storm,Severe,1,Philadelphia,03-2020,3.91153113,557.0419,1414
+Philadelphia,03-2021,Cold,Severe,2,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Fog,Moderate,2,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Fog,Severe,14,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Rain,Heavy,3,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Rain,Light,49,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Rain,Moderate,18,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,03-2021,Storm,Severe,1,Philadelphia,03-2021,3.940293415,497.6858,1285
+Philadelphia,04-2019,Fog,Moderate,9,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Fog,Severe,13,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Precipitation,UNK,4,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Rain,Heavy,4,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Rain,Light,75,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Rain,Moderate,19,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2019,Storm,Severe,1,Philadelphia,04-2019,3.894513008,599.0005,1823
+Philadelphia,04-2020,Cold,Severe,1,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Fog,Severe,17,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Precipitation,UNK,1,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Rain,Heavy,3,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Rain,Light,65,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Rain,Moderate,14,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2020,Storm,Severe,3,Philadelphia,04-2020,3.779423538,365.1425,797
+Philadelphia,04-2021,Fog,Moderate,7,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Fog,Severe,8,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Precipitation,UNK,3,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Rain,Heavy,2,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Rain,Light,48,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Rain,Moderate,10,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,04-2021,Storm,Severe,1,Philadelphia,04-2021,3.924107142,520.035,1290
+Philadelphia,05-2019,Fog,Moderate,9,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2019,Fog,Severe,19,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2019,Precipitation,UNK,8,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2019,Rain,Heavy,2,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2019,Rain,Light,97,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2019,Rain,Moderate,32,Philadelphia,05-2019,3.875472589,561.9157,1935
+Philadelphia,05-2020,Fog,Moderate,2,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2020,Fog,Severe,14,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2020,Precipitation,UNK,2,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2020,Rain,Heavy,2,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2020,Rain,Light,59,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2020,Rain,Moderate,9,Philadelphia,05-2020,3.860268378,395.7561,985
+Philadelphia,05-2021,Fog,Moderate,6,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,05-2021,Fog,Severe,6,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,05-2021,Precipitation,UNK,4,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,05-2021,Rain,Heavy,2,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,05-2021,Rain,Light,68,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,05-2021,Rain,Moderate,15,Philadelphia,05-2021,3.92791411,513.2678,1325
+Philadelphia,06-2019,Fog,Moderate,13,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2019,Fog,Severe,13,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2019,Precipitation,UNK,7,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2019,Rain,Heavy,12,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2019,Rain,Light,78,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2019,Rain,Moderate,26,Philadelphia,06-2019,3.871177669,583.4673,1880
+Philadelphia,06-2020,Fog,Severe,11,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2020,Precipitation,UNK,8,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2020,Rain,Heavy,3,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2020,Rain,Light,39,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2020,Rain,Moderate,8,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2020,Storm,Severe,1,Philadelphia,06-2020,3.857142857,390.0989,1017
+Philadelphia,06-2021,Fog,Moderate,1,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,06-2021,Fog,Severe,10,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,06-2021,Precipitation,UNK,6,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,06-2021,Rain,Heavy,3,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,06-2021,Rain,Light,52,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,06-2021,Rain,Moderate,7,Philadelphia,06-2021,3.952717224,567.7918,1321
+Philadelphia,07-2019,Fog,Moderate,7,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Fog,Severe,1,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Precipitation,UNK,16,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Rain,Heavy,11,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Rain,Light,78,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Rain,Moderate,11,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2019,Storm,Severe,3,Philadelphia,07-2019,3.900187441,621.37,1833
+Philadelphia,07-2020,Cold,Severe,1,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Fog,Moderate,2,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Fog,Severe,5,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Precipitation,UNK,12,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Rain,Heavy,15,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Rain,Light,67,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2020,Rain,Moderate,15,Philadelphia,07-2020,3.898771706,444.8492,1181
+Philadelphia,07-2021,Fog,Moderate,11,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,07-2021,Fog,Severe,8,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,07-2021,Precipitation,UNK,18,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,07-2021,Rain,Heavy,14,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,07-2021,Rain,Light,58,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,07-2021,Rain,Moderate,21,Philadelphia,07-2021,3.948923998,562.4571,1393
+Philadelphia,08-2019,Fog,Moderate,16,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2019,Fog,Severe,8,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2019,Precipitation,UNK,8,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2019,Rain,Heavy,4,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2019,Rain,Light,39,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2019,Rain,Moderate,8,Philadelphia,08-2019,3.910384068,585.3888,1878
+Philadelphia,08-2020,Fog,Severe,7,Philadelphia,08-2020,3.921983356,522.2902,1237
+Philadelphia,08-2020,Precipitation,UNK,9,Philadelphia,08-2020,3.921983356,522.2902,1237
+Philadelphia,08-2020,Rain,Heavy,3,Philadelphia,08-2020,3.921983356,522.2902,1237
+Philadelphia,08-2020,Rain,Light,75,Philadelphia,08-2020,3.921983356,522.2902,1237
+Philadelphia,08-2020,Rain,Moderate,22,Philadelphia,08-2020,3.921983356,522.2902,1237
+Philadelphia,08-2021,Fog,Moderate,1,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,08-2021,Fog,Severe,1,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,08-2021,Precipitation,UNK,7,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,08-2021,Rain,Heavy,8,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,08-2021,Rain,Light,54,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,08-2021,Rain,Moderate,20,Philadelphia,08-2021,3.92665549,586.5066,1368
+Philadelphia,09-2019,Fog,Moderate,2,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2019,Fog,Severe,8,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2019,Precipitation,UNK,2,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2019,Rain,Heavy,1,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2019,Rain,Light,34,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2019,Rain,Moderate,5,Philadelphia,09-2019,3.868734693,601.3332,1842
+Philadelphia,09-2020,Cold,Severe,4,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Fog,Moderate,1,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Fog,Severe,7,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Precipitation,UNK,1,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Rain,Heavy,8,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Rain,Light,57,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2020,Rain,Moderate,19,Philadelphia,09-2020,3.90851735,554.7675,1329
+Philadelphia,09-2021,Precipitation,UNK,10,Philadelphia,09-2021,3.910801713,537.6714,1344
+Philadelphia,09-2021,Rain,Heavy,9,Philadelphia,09-2021,3.910801713,537.6714,1344
+Philadelphia,09-2021,Rain,Light,47,Philadelphia,09-2021,3.910801713,537.6714,1344
+Philadelphia,09-2021,Rain,Moderate,16,Philadelphia,09-2021,3.910801713,537.6714,1344
+Philadelphia,10-2019,Fog,Moderate,5,Philadelphia,10-2019,3.909469764,575.7803,1790
+Philadelphia,10-2019,Fog,Severe,29,Philadelphia,10-2019,3.909469764,575.7803,1790
+Philadelphia,10-2019,Rain,Heavy,3,Philadelphia,10-2019,3.909469764,575.7803,1790
+Philadelphia,10-2019,Rain,Light,87,Philadelphia,10-2019,3.909469764,575.7803,1790
+Philadelphia,10-2019,Rain,Moderate,20,Philadelphia,10-2019,3.909469764,575.7803,1790
+Philadelphia,10-2020,Fog,Moderate,2,Philadelphia,10-2020,3.925385109,531.491,1352
+Philadelphia,10-2020,Fog,Severe,36,Philadelphia,10-2020,3.925385109,531.491,1352
+Philadelphia,10-2020,Rain,Light,70,Philadelphia,10-2020,3.925385109,531.491,1352
+Philadelphia,10-2020,Rain,Moderate,26,Philadelphia,10-2020,3.925385109,531.491,1352
+Philadelphia,10-2021,Fog,Moderate,1,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,10-2021,Fog,Severe,5,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,10-2021,Precipitation,UNK,7,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,10-2021,Rain,Heavy,4,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,10-2021,Rain,Light,62,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,10-2021,Rain,Moderate,22,Philadelphia,10-2021,3.956283343,559.2377,1375
+Philadelphia,11-2019,Fog,Moderate,7,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Fog,Severe,4,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Rain,Light,26,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Rain,Moderate,6,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Snow,Heavy,1,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Snow,Light,2,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2019,Snow,Moderate,1,Philadelphia,11-2019,3.912398412,566.7777,1694
+Philadelphia,11-2020,Fog,Moderate,8,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2020,Fog,Severe,19,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2020,Precipitation,UNK,5,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2020,Rain,Heavy,8,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2020,Rain,Light,63,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2020,Rain,Moderate,31,Philadelphia,11-2020,3.961249059,519.5233,1272
+Philadelphia,11-2021,Fog,Severe,7,Philadelphia,11-2021,3.964019851,574.0145,1227
+Philadelphia,11-2021,Rain,Light,28,Philadelphia,11-2021,3.964019851,574.0145,1227
+Philadelphia,11-2021,Rain,Moderate,1,Philadelphia,11-2021,3.964019851,574.0145,1227
+Philadelphia,11-2021,Snow,Light,1,Philadelphia,11-2021,3.964019851,574.0145,1227
+Philadelphia,12-2019,Fog,Moderate,17,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2019,Fog,Severe,28,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2019,Rain,Light,101,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2019,Rain,Moderate,22,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2019,Snow,Light,23,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2019,Snow,Moderate,3,Philadelphia,12-2019,3.904130871,568.0735,1746
+Philadelphia,12-2020,Fog,Moderate,5,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Fog,Severe,19,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Precipitation,UNK,2,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Rain,Heavy,6,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Rain,Light,57,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Rain,Moderate,18,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Snow,Heavy,4,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Snow,Light,21,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Snow,Moderate,10,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2020,Storm,Severe,1,Philadelphia,12-2020,3.96645796,462.5877,1164
+Philadelphia,12-2021,Fog,Moderate,2,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Fog,Severe,17,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Precipitation,UNK,1,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Rain,Heavy,1,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Rain,Light,58,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Rain,Moderate,4,Philadelphia,12-2021,3.971570831,558.9309,1272
+Philadelphia,12-2021,Snow,Light,2,Philadelphia,12-2021,3.971570831,558.9309,1272
+Reno,01-2019,Fog,Moderate,2,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Fog,Severe,2,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Precipitation,UNK,2,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Rain,Heavy,1,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Rain,Light,52,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Rain,Moderate,6,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Snow,Heavy,12,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Snow,Light,48,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Snow,Moderate,20,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2019,Storm,Severe,2,Reno,01-2019,3.818706221,428.4705,552
+Reno,01-2020,Fog,Moderate,1,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Fog,Severe,1,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Rain,Light,23,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Snow,Heavy,1,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Snow,Light,14,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Snow,Moderate,2,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2020,Storm,Severe,5,Reno,01-2020,3.825483391,415.9425,538
+Reno,01-2021,Fog,Moderate,3,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Fog,Severe,12,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Rain,Light,24,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Snow,Heavy,4,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Snow,Light,53,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Snow,Moderate,17,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2021,Storm,Severe,2,Reno,01-2021,3.934941967,384.0006,471
+Reno,01-2022,Storm,Severe,2,Reno,01-2022,3.879980079,375.5199,406
+Reno,02-2019,Cold,Severe,1,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Fog,Moderate,4,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Fog,Severe,8,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Hail,Other,1,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Rain,Light,62,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Rain,Moderate,10,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Snow,Heavy,4,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Snow,Light,110,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Snow,Moderate,21,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2019,Storm,Severe,6,Reno,02-2019,3.826683937,427.9347,529
+Reno,02-2020,Cold,Severe,1,Reno,02-2020,3.87761194,416.0627,546
+Reno,02-2020,Rain,Light,3,Reno,02-2020,3.87761194,416.0627,546
+Reno,02-2020,Snow,Light,1,Reno,02-2020,3.87761194,416.0627,546
+Reno,02-2021,Rain,Light,22,Reno,02-2021,3.960526315,397.2285,446
+Reno,02-2021,Snow,Light,4,Reno,02-2021,3.960526315,397.2285,446
+Reno,03-2019,Cold,Severe,6,Reno,03-2019,3.89390142,424.7393,567
+Reno,03-2019,Fog,Severe,4,Reno,03-2019,3.89390142,424.7393,567
+Reno,03-2019,Rain,Light,79,Reno,03-2019,3.89390142,424.7393,567
+Reno,03-2019,Snow,Light,25,Reno,03-2019,3.89390142,424.7393,567
+Reno,03-2019,Snow,Moderate,6,Reno,03-2019,3.89390142,424.7393,567
+Reno,03-2020,Fog,Severe,1,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Hail,Other,2,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Rain,Light,29,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Snow,Heavy,2,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Snow,Light,68,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Snow,Moderate,15,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2020,Storm,Severe,3,Reno,03-2020,3.946861626,409.689,473
+Reno,03-2021,Fog,Moderate,1,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Fog,Severe,2,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Hail,Other,1,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Rain,Light,19,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Snow,Heavy,1,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Snow,Light,19,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Snow,Moderate,1,Reno,03-2021,3.929652466,400.148,503
+Reno,03-2021,Storm,Severe,2,Reno,03-2021,3.929652466,400.148,503
+Reno,04-2019,Rain,Light,37,Reno,04-2019,3.866105769,436.2476,534
+Reno,04-2019,Snow,Light,3,Reno,04-2019,3.866105769,436.2476,534
+Reno,04-2019,Storm,Severe,2,Reno,04-2019,3.866105769,436.2476,534
+Reno,04-2020,Fog,Moderate,1,Reno,04-2020,3.837438423,327.5813,346
+Reno,04-2020,Rain,Light,26,Reno,04-2020,3.837438423,327.5813,346
+Reno,04-2020,Snow,Heavy,1,Reno,04-2020,3.837438423,327.5813,346
+Reno,04-2020,Snow,Light,4,Reno,04-2020,3.837438423,327.5813,346
+Reno,04-2020,Snow,Moderate,1,Reno,04-2020,3.837438423,327.5813,346
+Reno,04-2021,Fog,Moderate,1,Reno,04-2021,3.943037974,406.0242,518
+Reno,04-2021,Rain,Light,18,Reno,04-2021,3.943037974,406.0242,518
+Reno,04-2021,Snow,Light,1,Reno,04-2021,3.943037974,406.0242,518
+Reno,05-2019,Fog,Moderate,1,Reno,05-2019,3.86287398,442.1641,551
+Reno,05-2019,Rain,Light,84,Reno,05-2019,3.86287398,442.1641,551
+Reno,05-2020,Fog,Moderate,1,Reno,05-2020,3.854462474,363.2779,373
+Reno,05-2020,Fog,Severe,1,Reno,05-2020,3.854462474,363.2779,373
+Reno,05-2020,Rain,Light,15,Reno,05-2020,3.854462474,363.2779,373
+Reno,05-2020,Storm,Severe,2,Reno,05-2020,3.854462474,363.2779,373
+Reno,05-2021,Fog,Moderate,1,Reno,05-2021,3.916309012,382.0676,503
+Reno,05-2021,Rain,Light,31,Reno,05-2021,3.916309012,382.0676,503
+Reno,05-2021,Rain,Moderate,2,Reno,05-2021,3.916309012,382.0676,503
+Reno,05-2021,Snow,Light,3,Reno,05-2021,3.916309012,382.0676,503
+Reno,06-2019,Fog,Moderate,1,Reno,06-2019,3.848794906,439.2428,561
+Reno,06-2019,Rain,Light,7,Reno,06-2019,3.848794906,439.2428,561
+Reno,06-2020,Fog,Moderate,3,Reno,06-2020,3.918298446,430.8481,455
+Reno,06-2020,Rain,Light,18,Reno,06-2020,3.918298446,430.8481,455
+Reno,06-2020,Storm,Severe,1,Reno,06-2020,3.918298446,430.8481,455
+Reno,06-2021,Rain,Light,10,Reno,06-2021,3.900504484,398.1071,488
+Reno,07-2019,Cold,Severe,1,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2019,Fog,Severe,1,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2019,Precipitation,UNK,1,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2019,Rain,Heavy,2,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2019,Rain,Light,14,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2019,Rain,Moderate,1,Reno,07-2019,3.842930812,430.9136,561
+Reno,07-2020,Rain,Light,16,Reno,07-2020,3.903953229,408.8396,497
+Reno,07-2021,Fog,Moderate,33,Reno,07-2021,3.913096397,399.4085,523
+Reno,07-2021,Fog,Severe,8,Reno,07-2021,3.913096397,399.4085,523
+Reno,07-2021,Precipitation,UNK,1,Reno,07-2021,3.913096397,399.4085,523
+Reno,07-2021,Rain,Light,14,Reno,07-2021,3.913096397,399.4085,523
+Reno,07-2021,Rain,Moderate,1,Reno,07-2021,3.913096397,399.4085,523
+Reno,08-2019,Cold,Severe,1,Reno,08-2019,3.872151898,419.0937,578
+Reno,08-2020,Fog,Moderate,52,Reno,08-2020,3.911266783,421.6562,468
+Reno,08-2020,Fog,Severe,3,Reno,08-2020,3.911266783,421.6562,468
+Reno,08-2020,Rain,Light,18,Reno,08-2020,3.911266783,421.6562,468
+Reno,08-2021,Cold,Severe,1,Reno,08-2021,3.900837257,387.3469,523
+Reno,08-2021,Fog,Moderate,108,Reno,08-2021,3.900837257,387.3469,523
+Reno,08-2021,Fog,Severe,15,Reno,08-2021,3.900837257,387.3469,523
+Reno,08-2021,Rain,Light,6,Reno,08-2021,3.900837257,387.3469,523
+Reno,09-2019,Fog,Moderate,5,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Fog,Severe,1,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Precipitation,UNK,1,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Rain,Light,32,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Rain,Moderate,1,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Snow,Heavy,2,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Snow,Light,6,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2019,Snow,Moderate,4,Reno,09-2019,3.84179033,416.719,573
+Reno,09-2020,Fog,Moderate,61,Reno,09-2020,3.924261083,412.3147,472
+Reno,09-2020,Fog,Severe,7,Reno,09-2020,3.924261083,412.3147,472
+Reno,09-2021,Cold,Severe,1,Reno,09-2021,3.906308557,387.6746,494
+Reno,09-2021,Fog,Moderate,8,Reno,09-2021,3.906308557,387.6746,494
+Reno,09-2021,Rain,Light,9,Reno,09-2021,3.906308557,387.6746,494
+Reno,09-2021,Rain,Moderate,1,Reno,09-2021,3.906308557,387.6746,494
+Reno,10-2019,Fog,Moderate,5,Reno,10-2019,3.883691845,428.4862,531
+Reno,10-2019,Fog,Severe,14,Reno,10-2019,3.883691845,428.4862,531
+Reno,10-2019,Rain,Light,9,Reno,10-2019,3.883691845,428.4862,531
+Reno,10-2019,Snow,Light,23,Reno,10-2019,3.883691845,428.4862,531
+Reno,10-2020,Cold,Severe,1,Reno,10-2020,3.905012376,412.1671,477
+Reno,10-2020,Fog,Moderate,23,Reno,10-2020,3.905012376,412.1671,477
+Reno,10-2020,Fog,Severe,2,Reno,10-2020,3.905012376,412.1671,477
+Reno,10-2020,Rain,Light,1,Reno,10-2020,3.905012376,412.1671,477
+Reno,10-2020,Snow,Light,5,Reno,10-2020,3.905012376,412.1671,477
+Reno,10-2021,Fog,Moderate,5,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Fog,Severe,2,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Hail,Other,1,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Rain,Heavy,1,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Rain,Light,72,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Rain,Moderate,23,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Snow,Heavy,2,Reno,10-2021,3.893564356,389.2599,495
+Reno,10-2021,Snow,Light,10,Reno,10-2021,3.893564356,389.2599,495
+Reno,11-2019,Cold,Severe,1,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2019,Fog,Moderate,3,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2019,Fog,Severe,5,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2019,Rain,Light,14,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2019,Snow,Light,30,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2019,Snow,Moderate,3,Reno,11-2019,3.871673565,424.2147,504
+Reno,11-2020,Rain,Light,23,Reno,11-2020,3.875,387.5655,459
+Reno,11-2020,Snow,Light,2,Reno,11-2020,3.875,387.5655,459
+Reno,11-2020,Storm,Severe,3,Reno,11-2020,3.875,387.5655,459
+Reno,11-2021,Cold,Severe,1,Reno,11-2021,3.93366398,367.3236,494
+Reno,11-2021,Fog,Moderate,4,Reno,11-2021,3.93366398,367.3236,494
+Reno,11-2021,Fog,Severe,4,Reno,11-2021,3.93366398,367.3236,494
+Reno,11-2021,Rain,Light,11,Reno,11-2021,3.93366398,367.3236,494
+Reno,11-2021,Storm,Severe,2,Reno,11-2021,3.93366398,367.3236,494
+Reno,12-2019,Fog,Severe,24,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Rain,Light,61,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Rain,Moderate,3,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Snow,Heavy,3,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Snow,Light,35,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Snow,Moderate,8,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2019,Storm,Severe,1,Reno,12-2019,3.810619469,432.4425,514
+Reno,12-2020,Fog,Severe,1,Reno,12-2020,3.896539293,373.695,474
+Reno,12-2020,Rain,Light,30,Reno,12-2020,3.896539293,373.695,474
+Reno,12-2020,Snow,Light,14,Reno,12-2020,3.896539293,373.695,474
+Reno,12-2020,Snow,Moderate,3,Reno,12-2020,3.896539293,373.695,474
+Reno,12-2020,Storm,Severe,1,Reno,12-2020,3.896539293,373.695,474
+Reno,12-2021,Fog,Moderate,6,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Fog,Severe,18,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Rain,Light,80,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Rain,Moderate,4,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Snow,Heavy,12,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Snow,Light,82,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Snow,Moderate,15,Reno,12-2021,3.932517263,364.2222,492
+Reno,12-2021,Storm,Severe,1,Reno,12-2021,3.932517263,364.2222,492
+Saint Louis,01-2019,Fog,Moderate,1,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Fog,Severe,5,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Hail,Other,3,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Rain,Light,20,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Rain,Moderate,5,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Snow,Heavy,3,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Snow,Light,32,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2019,Snow,Moderate,10,Saint Louis,01-2019,3.862098138,469.6667,489
+Saint Louis,01-2020,Fog,Moderate,2,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Fog,Severe,6,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Precipitation,UNK,4,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Rain,Heavy,4,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Rain,Light,31,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Rain,Moderate,10,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Snow,Heavy,3,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Snow,Light,21,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2020,Snow,Moderate,6,Saint Louis,01-2020,3.930167597,447.3184,435
+Saint Louis,01-2021,Fog,Moderate,3,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Fog,Severe,7,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Precipitation,UNK,1,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Rain,Heavy,2,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Rain,Light,26,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Rain,Moderate,7,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Snow,Heavy,2,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Snow,Light,33,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2021,Snow,Moderate,4,Saint Louis,01-2021,3.955438066,413.4305,319
+Saint Louis,01-2022,Fog,Moderate,2,Saint Louis,01-2022,3.935622317,418.9442,267
+Saint Louis,01-2022,Rain,Light,16,Saint Louis,01-2022,3.935622317,418.9442,267
+Saint Louis,01-2022,Rain,Moderate,1,Saint Louis,01-2022,3.935622317,418.9442,267
+Saint Louis,01-2022,Snow,Light,14,Saint Louis,01-2022,3.935622317,418.9442,267
+Saint Louis,01-2022,Snow,Moderate,4,Saint Louis,01-2022,3.935622317,418.9442,267
+Saint Louis,02-2019,Fog,Moderate,1,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Fog,Severe,4,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Hail,Other,10,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Rain,Heavy,2,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Rain,Light,40,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Rain,Moderate,7,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Snow,Heavy,1,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Snow,Light,19,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2019,Snow,Moderate,3,Saint Louis,02-2019,3.864181662,448.1337,468
+Saint Louis,02-2020,Rain,Light,28,Saint Louis,02-2020,3.90405904,460.8856,438
+Saint Louis,02-2020,Rain,Moderate,3,Saint Louis,02-2020,3.90405904,460.8856,438
+Saint Louis,02-2020,Snow,Heavy,1,Saint Louis,02-2020,3.90405904,460.8856,438
+Saint Louis,02-2020,Snow,Light,22,Saint Louis,02-2020,3.90405904,460.8856,438
+Saint Louis,02-2020,Snow,Moderate,4,Saint Louis,02-2020,3.90405904,460.8856,438
+Saint Louis,02-2021,Precipitation,UNK,1,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,02-2021,Rain,Light,11,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,02-2021,Rain,Moderate,2,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,02-2021,Snow,Heavy,1,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,02-2021,Snow,Light,31,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,02-2021,Snow,Moderate,8,Saint Louis,02-2021,3.968490878,409.2139,315
+Saint Louis,03-2019,Fog,Moderate,1,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Fog,Severe,3,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Hail,Other,1,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Precipitation,UNK,1,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Rain,Heavy,3,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Rain,Light,37,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Rain,Moderate,16,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Snow,Light,7,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2019,Snow,Moderate,2,Saint Louis,03-2019,3.857996018,472.8613,533
+Saint Louis,03-2020,Cold,Severe,1,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Fog,Moderate,10,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Fog,Severe,4,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Hail,Other,1,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Precipitation,UNK,2,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Rain,Heavy,1,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Rain,Light,42,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2020,Rain,Moderate,8,Saint Louis,03-2020,3.967964824,473.8832,377
+Saint Louis,03-2021,Fog,Moderate,1,Saint Louis,03-2021,3.869785082,442.1479,363
+Saint Louis,03-2021,Fog,Severe,1,Saint Louis,03-2021,3.869785082,442.1479,363
+Saint Louis,03-2021,Rain,Heavy,4,Saint Louis,03-2021,3.869785082,442.1479,363
+Saint Louis,03-2021,Rain,Light,39,Saint Louis,03-2021,3.869785082,442.1479,363
+Saint Louis,03-2021,Rain,Moderate,14,Saint Louis,03-2021,3.869785082,442.1479,363
+Saint Louis,04-2019,Fog,Moderate,1,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2019,Fog,Severe,4,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2019,Precipitation,UNK,5,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2019,Rain,Heavy,1,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2019,Rain,Light,42,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2019,Rain,Moderate,7,Saint Louis,04-2019,3.892804698,513.0778,504
+Saint Louis,04-2020,Cold,Severe,1,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Fog,Moderate,2,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Precipitation,UNK,2,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Rain,Heavy,3,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Rain,Light,36,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Rain,Moderate,10,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2020,Snow,Light,1,Saint Louis,04-2020,3.945987654,415.284,218
+Saint Louis,04-2021,Precipitation,UNK,2,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Rain,Heavy,2,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Rain,Light,35,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Rain,Moderate,7,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Snow,Heavy,1,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Snow,Light,2,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,04-2021,Snow,Moderate,2,Saint Louis,04-2021,3.862857142,428.4446,370
+Saint Louis,05-2019,Fog,Moderate,1,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2019,Fog,Severe,1,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2019,Precipitation,UNK,8,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2019,Rain,Heavy,7,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2019,Rain,Light,38,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2019,Rain,Moderate,9,Saint Louis,05-2019,3.870333333,504.254,514
+Saint Louis,05-2020,Fog,Severe,3,Saint Louis,05-2020,3.817351598,376.1484,264
+Saint Louis,05-2020,Precipitation,UNK,3,Saint Louis,05-2020,3.817351598,376.1484,264
+Saint Louis,05-2020,Rain,Heavy,2,Saint Louis,05-2020,3.817351598,376.1484,264
+Saint Louis,05-2020,Rain,Light,60,Saint Louis,05-2020,3.817351598,376.1484,264
+Saint Louis,05-2020,Rain,Moderate,13,Saint Louis,05-2020,3.817351598,376.1484,264
+Saint Louis,05-2021,Fog,Severe,1,Saint Louis,05-2021,3.913542926,486.8646,357
+Saint Louis,05-2021,Precipitation,UNK,1,Saint Louis,05-2021,3.913542926,486.8646,357
+Saint Louis,05-2021,Rain,Heavy,1,Saint Louis,05-2021,3.913542926,486.8646,357
+Saint Louis,05-2021,Rain,Light,32,Saint Louis,05-2021,3.913542926,486.8646,357
+Saint Louis,05-2021,Rain,Moderate,7,Saint Louis,05-2021,3.913542926,486.8646,357
+Saint Louis,06-2019,Cold,Severe,1,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Fog,Moderate,4,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Fog,Severe,1,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Precipitation,UNK,10,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Rain,Heavy,4,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Rain,Light,41,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2019,Rain,Moderate,4,Saint Louis,06-2019,3.864972443,523.3411,537
+Saint Louis,06-2020,Precipitation,UNK,4,Saint Louis,06-2020,3.899193548,399.3387,333
+Saint Louis,06-2020,Rain,Heavy,1,Saint Louis,06-2020,3.899193548,399.3387,333
+Saint Louis,06-2020,Rain,Light,25,Saint Louis,06-2020,3.899193548,399.3387,333
+Saint Louis,06-2020,Rain,Moderate,3,Saint Louis,06-2020,3.899193548,399.3387,333
+Saint Louis,06-2021,Fog,Moderate,1,Saint Louis,06-2021,3.875813449,431.0553,389
+Saint Louis,06-2021,Precipitation,UNK,9,Saint Louis,06-2021,3.875813449,431.0553,389
+Saint Louis,06-2021,Rain,Heavy,6,Saint Louis,06-2021,3.875813449,431.0553,389
+Saint Louis,06-2021,Rain,Light,33,Saint Louis,06-2021,3.875813449,431.0553,389
+Saint Louis,06-2021,Rain,Moderate,5,Saint Louis,06-2021,3.875813449,431.0553,389
+Saint Louis,07-2019,Cold,Severe,1,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Fog,Moderate,1,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Fog,Severe,1,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Precipitation,UNK,2,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Rain,Heavy,3,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Rain,Light,28,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2019,Rain,Moderate,8,Saint Louis,07-2019,3.89516129,513.1835,574
+Saint Louis,07-2020,Fog,Moderate,2,Saint Louis,07-2020,3.83242134,387.9781,359
+Saint Louis,07-2020,Precipitation,UNK,9,Saint Louis,07-2020,3.83242134,387.9781,359
+Saint Louis,07-2020,Rain,Heavy,8,Saint Louis,07-2020,3.83242134,387.9781,359
+Saint Louis,07-2020,Rain,Light,29,Saint Louis,07-2020,3.83242134,387.9781,359
+Saint Louis,07-2020,Rain,Moderate,13,Saint Louis,07-2020,3.83242134,387.9781,359
+Saint Louis,07-2021,Fog,Moderate,4,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Fog,Severe,1,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Precipitation,UNK,6,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Rain,Heavy,5,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Rain,Light,26,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Rain,Moderate,7,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,07-2021,Storm,Severe,1,Saint Louis,07-2021,3.897621509,474.1324,385
+Saint Louis,08-2019,Hail,Other,1,Saint Louis,08-2019,3.905665887,516.2728,542
+Saint Louis,08-2019,Precipitation,UNK,7,Saint Louis,08-2019,3.905665887,516.2728,542
+Saint Louis,08-2019,Rain,Heavy,4,Saint Louis,08-2019,3.905665887,516.2728,542
+Saint Louis,08-2019,Rain,Light,36,Saint Louis,08-2019,3.905665887,516.2728,542
+Saint Louis,08-2019,Rain,Moderate,10,Saint Louis,08-2019,3.905665887,516.2728,542
+Saint Louis,08-2020,Cold,Severe,1,Saint Louis,08-2020,3.855042016,415.4496,360
+Saint Louis,08-2020,Precipitation,UNK,4,Saint Louis,08-2020,3.855042016,415.4496,360
+Saint Louis,08-2020,Rain,Heavy,1,Saint Louis,08-2020,3.855042016,415.4496,360
+Saint Louis,08-2020,Rain,Light,17,Saint Louis,08-2020,3.855042016,415.4496,360
+Saint Louis,08-2020,Rain,Moderate,2,Saint Louis,08-2020,3.855042016,415.4496,360
+Saint Louis,08-2021,Fog,Moderate,3,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Fog,Severe,1,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Precipitation,UNK,7,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Rain,Heavy,4,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Rain,Light,12,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Rain,Moderate,1,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,08-2021,Storm,Severe,1,Saint Louis,08-2021,3.918131868,447.0989,383
+Saint Louis,09-2019,Fog,Severe,3,Saint Louis,09-2019,3.88453159,482.2077,503
+Saint Louis,09-2019,Precipitation,UNK,3,Saint Louis,09-2019,3.88453159,482.2077,503
+Saint Louis,09-2019,Rain,Heavy,1,Saint Louis,09-2019,3.88453159,482.2077,503
+Saint Louis,09-2019,Rain,Light,13,Saint Louis,09-2019,3.88453159,482.2077,503
+Saint Louis,09-2019,Rain,Moderate,3,Saint Louis,09-2019,3.88453159,482.2077,503
+Saint Louis,09-2020,Fog,Moderate,5,Saint Louis,09-2020,3.944680851,473.3319,341
+Saint Louis,09-2020,Fog,Severe,3,Saint Louis,09-2020,3.944680851,473.3319,341
+Saint Louis,09-2020,Rain,Light,11,Saint Louis,09-2020,3.944680851,473.3319,341
+Saint Louis,09-2020,Rain,Moderate,4,Saint Louis,09-2020,3.944680851,473.3319,341
+Saint Louis,09-2021,Fog,Severe,1,Saint Louis,09-2021,3.873619631,471.6933,343
+Saint Louis,09-2021,Precipitation,UNK,6,Saint Louis,09-2021,3.873619631,471.6933,343
+Saint Louis,09-2021,Rain,Heavy,3,Saint Louis,09-2021,3.873619631,471.6933,343
+Saint Louis,09-2021,Rain,Light,15,Saint Louis,09-2021,3.873619631,471.6933,343
+Saint Louis,09-2021,Rain,Moderate,1,Saint Louis,09-2021,3.873619631,471.6933,343
+Saint Louis,10-2019,Fog,Severe,1,Saint Louis,10-2019,3.907796101,525.9423,488
+Saint Louis,10-2019,Rain,Light,35,Saint Louis,10-2019,3.907796101,525.9423,488
+Saint Louis,10-2019,Rain,Moderate,16,Saint Louis,10-2019,3.907796101,525.9423,488
+Saint Louis,10-2019,Snow,Light,2,Saint Louis,10-2019,3.907796101,525.9423,488
+Saint Louis,10-2020,Fog,Moderate,4,Saint Louis,10-2020,3.872124492,460.452,340
+Saint Louis,10-2020,Fog,Severe,2,Saint Louis,10-2020,3.872124492,460.452,340
+Saint Louis,10-2020,Rain,Light,43,Saint Louis,10-2020,3.872124492,460.452,340
+Saint Louis,10-2020,Rain,Moderate,14,Saint Louis,10-2020,3.872124492,460.452,340
+Saint Louis,10-2021,Fog,Moderate,1,Saint Louis,10-2021,3.876013904,443.4067,380
+Saint Louis,10-2021,Fog,Severe,4,Saint Louis,10-2021,3.876013904,443.4067,380
+Saint Louis,10-2021,Rain,Light,39,Saint Louis,10-2021,3.876013904,443.4067,380
+Saint Louis,10-2021,Rain,Moderate,8,Saint Louis,10-2021,3.876013904,443.4067,380
+Saint Louis,11-2019,Fog,Moderate,5,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Fog,Severe,5,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Precipitation,UNK,3,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Rain,Heavy,3,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Rain,Light,37,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Rain,Moderate,4,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Snow,Heavy,2,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Snow,Light,1,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2019,Snow,Moderate,1,Saint Louis,11-2019,3.918861512,479.3517,461
+Saint Louis,11-2020,Fog,Severe,1,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2020,Precipitation,UNK,3,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2020,Rain,Heavy,1,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2020,Rain,Light,35,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2020,Rain,Moderate,12,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2020,Snow,Light,1,Saint Louis,11-2020,3.929032258,442.3048,328
+Saint Louis,11-2021,Fog,Moderate,1,Saint Louis,11-2021,3.92446524,435.7099,359
+Saint Louis,11-2021,Rain,Light,11,Saint Louis,11-2021,3.92446524,435.7099,359
+Saint Louis,11-2021,Snow,Light,2,Saint Louis,11-2021,3.92446524,435.7099,359
+Saint Louis,12-2019,Cold,Severe,1,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Fog,Moderate,3,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Fog,Severe,3,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Rain,Heavy,1,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Rain,Light,20,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Rain,Moderate,4,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Snow,Heavy,1,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Snow,Light,16,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2019,Snow,Moderate,5,Saint Louis,12-2019,3.885317115,486.0417,473
+Saint Louis,12-2020,Fog,Moderate,1,Saint Louis,12-2020,3.903759398,412.2586,331
+Saint Louis,12-2020,Rain,Heavy,1,Saint Louis,12-2020,3.903759398,412.2586,331
+Saint Louis,12-2020,Rain,Light,17,Saint Louis,12-2020,3.903759398,412.2586,331
+Saint Louis,12-2020,Rain,Moderate,6,Saint Louis,12-2020,3.903759398,412.2586,331
+Saint Louis,12-2020,Snow,Light,4,Saint Louis,12-2020,3.903759398,412.2586,331
+Saint Louis,12-2021,Fog,Moderate,5,Saint Louis,12-2021,3.933884297,377.2255,396
+Saint Louis,12-2021,Fog,Severe,9,Saint Louis,12-2021,3.933884297,377.2255,396
+Saint Louis,12-2021,Precipitation,UNK,3,Saint Louis,12-2021,3.933884297,377.2255,396
+Saint Louis,12-2021,Rain,Heavy,2,Saint Louis,12-2021,3.933884297,377.2255,396
+Saint Louis,12-2021,Rain,Light,28,Saint Louis,12-2021,3.933884297,377.2255,396
+Saint Louis,12-2021,Rain,Moderate,3,Saint Louis,12-2021,3.933884297,377.2255,396
+Tampa,01-2019,Cold,Severe,20,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2019,Fog,Moderate,4,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2019,Fog,Severe,35,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2019,Rain,Heavy,4,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2019,Rain,Light,72,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2019,Rain,Moderate,10,Tampa,01-2019,3.896727748,490.2733,1025
+Tampa,01-2020,Cold,Severe,10,Tampa,01-2020,3.904986318,413.7498,1008
+Tampa,01-2020,Fog,Severe,46,Tampa,01-2020,3.904986318,413.7498,1008
+Tampa,01-2020,Rain,Light,57,Tampa,01-2020,3.904986318,413.7498,1008
+Tampa,01-2020,Storm,Severe,1,Tampa,01-2020,3.904986318,413.7498,1008
+Tampa,01-2021,Cold,Severe,1,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Fog,Moderate,2,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Fog,Severe,106,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Precipitation,UNK,4,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Rain,Heavy,1,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Rain,Light,72,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2021,Rain,Moderate,4,Tampa,01-2021,4.0,402.0073,933
+Tampa,01-2022,Fog,Moderate,1,Tampa,01-2022,3.949662542,408.7835,770
+Tampa,01-2022,Fog,Severe,54,Tampa,01-2022,3.949662542,408.7835,770
+Tampa,01-2022,Rain,Light,129,Tampa,01-2022,3.949662542,408.7835,770
+Tampa,01-2022,Rain,Moderate,2,Tampa,01-2022,3.949662542,408.7835,770
+Tampa,02-2019,Cold,Severe,41,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2019,Fog,Moderate,1,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2019,Fog,Severe,59,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2019,Rain,Heavy,5,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2019,Rain,Light,128,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2019,Rain,Moderate,6,Tampa,02-2019,3.891853533,459.2242,1009
+Tampa,02-2020,Cold,Severe,6,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Fog,Moderate,4,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Fog,Severe,70,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Precipitation,UNK,1,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Rain,Heavy,5,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Rain,Light,124,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2020,Rain,Moderate,6,Tampa,02-2020,3.930204572,450.2771,985
+Tampa,02-2021,Cold,Severe,64,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Fog,Moderate,10,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Fog,Severe,50,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Precipitation,UNK,8,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Rain,Heavy,6,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Rain,Light,91,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,02-2021,Rain,Moderate,9,Tampa,02-2021,3.957810718,407.4265,904
+Tampa,03-2019,Cold,Severe,22,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Fog,Moderate,4,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Fog,Severe,36,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Precipitation,UNK,27,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Rain,Heavy,6,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Rain,Light,85,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2019,Rain,Moderate,5,Tampa,03-2019,3.884870096,469.8255,1075
+Tampa,03-2020,Fog,Moderate,2,Tampa,03-2020,3.962387387,425.9221,817
+Tampa,03-2020,Fog,Severe,119,Tampa,03-2020,3.962387387,425.9221,817
+Tampa,03-2020,Rain,Light,37,Tampa,03-2020,3.962387387,425.9221,817
+Tampa,03-2021,Fog,Moderate,2,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,03-2021,Fog,Severe,44,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,03-2021,Precipitation,UNK,1,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,03-2021,Rain,Heavy,1,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,03-2021,Rain,Light,79,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,03-2021,Rain,Moderate,5,Tampa,03-2021,3.967946631,439.2974,977
+Tampa,04-2019,Cold,Severe,3,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Fog,Moderate,4,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Fog,Severe,66,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Precipitation,UNK,4,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Rain,Heavy,4,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Rain,Light,145,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Rain,Moderate,8,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2019,Storm,Severe,2,Tampa,04-2019,3.913619871,452.7954,996
+Tampa,04-2020,Cold,Severe,4,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Fog,Moderate,3,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Fog,Severe,54,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Precipitation,UNK,7,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Rain,Heavy,9,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Rain,Light,147,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2020,Rain,Moderate,9,Tampa,04-2020,3.938297872,343.7681,540
+Tampa,04-2021,Cold,Severe,1,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Fog,Moderate,4,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Fog,Severe,44,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Precipitation,UNK,7,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Rain,Heavy,2,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Rain,Light,119,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,04-2021,Rain,Moderate,11,Tampa,04-2021,3.936218282,403.5207,956
+Tampa,05-2019,Cold,Severe,31,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Fog,Moderate,2,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Fog,Severe,60,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Precipitation,UNK,9,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Rain,Heavy,3,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Rain,Light,169,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2019,Rain,Moderate,3,Tampa,05-2019,3.895361527,447.3763,1026
+Tampa,05-2020,Cold,Severe,4,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Fog,Moderate,4,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Fog,Severe,68,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Precipitation,UNK,5,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Rain,Heavy,1,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Rain,Light,146,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Rain,Moderate,1,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2020,Storm,Severe,1,Tampa,05-2020,3.961281708,373.4299,698
+Tampa,05-2021,Fog,Moderate,8,Tampa,05-2021,3.932692307,402.9993,943
+Tampa,05-2021,Fog,Severe,24,Tampa,05-2021,3.932692307,402.9993,943
+Tampa,05-2021,Rain,Light,41,Tampa,05-2021,3.932692307,402.9993,943
+Tampa,05-2021,Rain,Moderate,1,Tampa,05-2021,3.932692307,402.9993,943
+Tampa,06-2019,Cold,Severe,48,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Fog,Moderate,1,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Fog,Severe,15,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Precipitation,UNK,19,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Rain,Heavy,10,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Rain,Light,310,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2019,Rain,Moderate,14,Tampa,06-2019,3.892967145,442.5059,1053
+Tampa,06-2020,Cold,Severe,2,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Fog,Moderate,3,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Fog,Severe,29,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Precipitation,UNK,7,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Rain,Heavy,9,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Rain,Light,262,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2020,Rain,Moderate,19,Tampa,06-2020,3.971188169,394.464,800
+Tampa,06-2021,Cold,Severe,4,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Fog,Moderate,2,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Fog,Severe,13,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Precipitation,UNK,25,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Rain,Heavy,15,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Rain,Light,249,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,06-2021,Rain,Moderate,18,Tampa,06-2021,3.936479772,400.3006,941
+Tampa,07-2019,Cold,Severe,6,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Fog,Moderate,2,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Fog,Severe,38,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Precipitation,UNK,24,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Rain,Heavy,13,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Rain,Light,379,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2019,Rain,Moderate,30,Tampa,07-2019,3.892661269,431.9577,1054
+Tampa,07-2020,Cold,Severe,3,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Fog,Moderate,2,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Fog,Severe,34,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Precipitation,UNK,13,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Rain,Heavy,6,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Rain,Light,291,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2020,Rain,Moderate,15,Tampa,07-2020,3.966819221,391.7108,862
+Tampa,07-2021,Fog,Moderate,3,Tampa,07-2021,3.950152078,409.413,958
+Tampa,07-2021,Fog,Severe,9,Tampa,07-2021,3.950152078,409.413,958
+Tampa,07-2021,Precipitation,UNK,13,Tampa,07-2021,3.950152078,409.413,958
+Tampa,07-2021,Rain,Heavy,13,Tampa,07-2021,3.950152078,409.413,958
+Tampa,07-2021,Rain,Light,299,Tampa,07-2021,3.950152078,409.413,958
+Tampa,07-2021,Rain,Moderate,21,Tampa,07-2021,3.950152078,409.413,958
+Tampa,08-2019,Cold,Severe,10,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Fog,Moderate,3,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Fog,Severe,52,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Precipitation,UNK,26,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Rain,Heavy,26,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Rain,Light,339,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2019,Rain,Moderate,40,Tampa,08-2019,3.927929193,450.6651,1022
+Tampa,08-2020,Cold,Severe,6,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Fog,Moderate,6,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Fog,Severe,6,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Precipitation,UNK,14,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Rain,Heavy,12,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Rain,Light,305,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2020,Rain,Moderate,14,Tampa,08-2020,3.979122733,417.9852,871
+Tampa,08-2021,Cold,Severe,5,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Fog,Moderate,2,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Fog,Severe,10,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Precipitation,UNK,21,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Rain,Heavy,8,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Rain,Light,299,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,08-2021,Rain,Moderate,13,Tampa,08-2021,3.966502649,396.8872,956
+Tampa,09-2019,Cold,Severe,3,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2019,Fog,Severe,50,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2019,Precipitation,UNK,5,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2019,Rain,Heavy,5,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2019,Rain,Light,121,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2019,Rain,Moderate,6,Tampa,09-2019,3.877527723,424.9798,1000
+Tampa,09-2020,Cold,Severe,2,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Fog,Moderate,1,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Fog,Severe,30,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Precipitation,UNK,11,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Rain,Heavy,8,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Rain,Light,318,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2020,Rain,Moderate,35,Tampa,09-2020,3.985983263,440.0393,846
+Tampa,09-2021,Cold,Severe,1,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Fog,Moderate,14,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Fog,Severe,37,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Precipitation,UNK,15,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Rain,Heavy,11,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Rain,Light,292,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,09-2021,Rain,Moderate,33,Tampa,09-2021,3.967042497,405.0785,899
+Tampa,10-2019,Cold,Severe,2,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Fog,Moderate,4,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Fog,Severe,62,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Precipitation,UNK,2,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Rain,Heavy,7,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Rain,Light,174,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2019,Rain,Moderate,15,Tampa,10-2019,3.930344626,420.5675,1024
+Tampa,10-2020,Cold,Severe,1,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Fog,Moderate,3,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Fog,Severe,46,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Precipitation,UNK,2,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Rain,Heavy,3,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Rain,Light,121,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2020,Rain,Moderate,17,Tampa,10-2020,3.977857444,371.9975,883
+Tampa,10-2021,Fog,Severe,38,Tampa,10-2021,3.917464114,396.1547,912
+Tampa,10-2021,Precipitation,UNK,2,Tampa,10-2021,3.917464114,396.1547,912
+Tampa,10-2021,Rain,Heavy,3,Tampa,10-2021,3.917464114,396.1547,912
+Tampa,10-2021,Rain,Light,240,Tampa,10-2021,3.917464114,396.1547,912
+Tampa,10-2021,Rain,Moderate,6,Tampa,10-2021,3.917464114,396.1547,912
+Tampa,11-2019,Fog,Severe,119,Tampa,11-2019,3.909442204,402.5944,986
+Tampa,11-2019,Precipitation,UNK,2,Tampa,11-2019,3.909442204,402.5944,986
+Tampa,11-2019,Rain,Light,101,Tampa,11-2019,3.909442204,402.5944,986
+Tampa,11-2019,Rain,Moderate,1,Tampa,11-2019,3.909442204,402.5944,986
+Tampa,11-2020,Cold,Severe,4,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2020,Fog,Moderate,3,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2020,Fog,Severe,37,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2020,Rain,Heavy,10,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2020,Rain,Light,144,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2020,Rain,Moderate,21,Tampa,11-2020,3.961229946,417.4064,857
+Tampa,11-2021,Fog,Moderate,4,Tampa,11-2021,3.932025547,425.7007,855
+Tampa,11-2021,Fog,Severe,61,Tampa,11-2021,3.932025547,425.7007,855
+Tampa,11-2021,Rain,Heavy,6,Tampa,11-2021,3.932025547,425.7007,855
+Tampa,11-2021,Rain,Light,161,Tampa,11-2021,3.932025547,425.7007,855
+Tampa,11-2021,Rain,Moderate,10,Tampa,11-2021,3.932025547,425.7007,855
+Tampa,12-2019,Cold,Severe,10,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Fog,Moderate,1,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Fog,Severe,95,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Precipitation,UNK,1,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Rain,Heavy,5,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Rain,Light,176,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2019,Rain,Moderate,10,Tampa,12-2019,3.908376963,419.5295,969
+Tampa,12-2020,Cold,Severe,1,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Fog,Severe,67,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Precipitation,UNK,2,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Rain,Heavy,3,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Rain,Light,113,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Rain,Moderate,10,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2020,Snow,Light,2,Tampa,12-2020,3.994350282,380.6054,868
+Tampa,12-2021,Cold,Severe,24,Tampa,12-2021,3.91400156,424.188,909
+Tampa,12-2021,Fog,Moderate,28,Tampa,12-2021,3.91400156,424.188,909
+Tampa,12-2021,Fog,Severe,247,Tampa,12-2021,3.91400156,424.188,909
+Tampa,12-2021,Rain,Heavy,1,Tampa,12-2021,3.91400156,424.188,909
+Tampa,12-2021,Rain,Light,76,Tampa,12-2021,3.91400156,424.188,909
+Tampa,12-2021,Rain,Moderate,3,Tampa,12-2021,3.91400156,424.188,909
+Tucson,01-2019,Cold,Severe,3,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Fog,Moderate,1,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Fog,Severe,2,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Rain,Light,51,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Rain,Moderate,6,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Snow,Light,11,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2019,Snow,Moderate,3,Tucson,01-2019,3.797891675,338.2421,869
+Tucson,01-2020,Cold,Severe,2,Tucson,01-2020,3.839135654,328.1012,821
+Tucson,01-2020,Fog,Moderate,2,Tucson,01-2020,3.839135654,328.1012,821
+Tucson,01-2020,Rain,Light,42,Tucson,01-2020,3.839135654,328.1012,821
+Tucson,01-2020,Rain,Moderate,4,Tucson,01-2020,3.839135654,328.1012,821
+Tucson,01-2021,Rain,Light,38,Tucson,01-2021,3.844155844,297.375,726
+Tucson,01-2021,Snow,Light,6,Tucson,01-2021,3.844155844,297.375,726
+Tucson,01-2021,Snow,Moderate,2,Tucson,01-2021,3.844155844,297.375,726
+Tucson,01-2021,Storm,Severe,1,Tucson,01-2021,3.844155844,297.375,726
+Tucson,01-2022,Cold,Severe,2,Tucson,01-2022,3.826530612,298.409,588
+Tucson,01-2022,Fog,Moderate,2,Tucson,01-2022,3.826530612,298.409,588
+Tucson,01-2022,Rain,Light,53,Tucson,01-2022,3.826530612,298.409,588
+Tucson,01-2022,Rain,Moderate,2,Tucson,01-2022,3.826530612,298.409,588
+Tucson,01-2022,Storm,Severe,3,Tucson,01-2022,3.826530612,298.409,588
+Tucson,02-2019,Cold,Severe,1,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Fog,Moderate,1,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Fog,Severe,5,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Rain,Light,82,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Rain,Moderate,9,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Snow,Heavy,5,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Snow,Light,11,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2019,Snow,Moderate,9,Tucson,02-2019,3.792359391,349.3753,883
+Tucson,02-2020,Fog,Moderate,12,Tucson,02-2020,3.848741074,324.8177,868
+Tucson,02-2020,Fog,Severe,4,Tucson,02-2020,3.848741074,324.8177,868
+Tucson,02-2020,Rain,Light,46,Tucson,02-2020,3.848741074,324.8177,868
+Tucson,02-2020,Rain,Moderate,4,Tucson,02-2020,3.848741074,324.8177,868
+Tucson,02-2021,Cold,Severe,1,Tucson,02-2021,3.877270225,300.2702,725
+Tucson,03-2019,Cold,Severe,1,Tucson,03-2019,3.802597402,341.3205,935
+Tucson,03-2019,Fog,Moderate,2,Tucson,03-2019,3.802597402,341.3205,935
+Tucson,03-2019,Precipitation,UNK,1,Tucson,03-2019,3.802597402,341.3205,935
+Tucson,03-2019,Rain,Light,25,Tucson,03-2019,3.802597402,341.3205,935
+Tucson,03-2019,Rain,Moderate,2,Tucson,03-2019,3.802597402,341.3205,935
+Tucson,03-2020,Cold,Severe,2,Tucson,03-2020,3.830699774,311.4808,764
+Tucson,03-2020,Fog,Moderate,4,Tucson,03-2020,3.830699774,311.4808,764
+Tucson,03-2020,Fog,Severe,4,Tucson,03-2020,3.830699774,311.4808,764
+Tucson,03-2020,Rain,Light,96,Tucson,03-2020,3.830699774,311.4808,764
+Tucson,03-2020,Rain,Moderate,2,Tucson,03-2020,3.830699774,311.4808,764
+Tucson,03-2021,Fog,Moderate,2,Tucson,03-2021,3.802351375,310.7258,817
+Tucson,03-2021,Rain,Light,64,Tucson,03-2021,3.802351375,310.7258,817
+Tucson,03-2021,Rain,Moderate,2,Tucson,03-2021,3.802351375,310.7258,817
+Tucson,03-2021,Storm,Severe,1,Tucson,03-2021,3.802351375,310.7258,817
+Tucson,04-2019,Cold,Severe,1,Tucson,04-2019,3.799499229,341.1425,870
+Tucson,04-2019,Fog,Moderate,8,Tucson,04-2019,3.799499229,341.1425,870
+Tucson,04-2019,Fog,Severe,2,Tucson,04-2019,3.799499229,341.1425,870
+Tucson,04-2019,Rain,Light,27,Tucson,04-2019,3.799499229,341.1425,870
+Tucson,04-2019,Storm,Severe,1,Tucson,04-2019,3.799499229,341.1425,870
+Tucson,04-2020,Cold,Severe,8,Tucson,04-2020,3.73876698,263.9843,515
+Tucson,04-2020,Fog,Moderate,4,Tucson,04-2020,3.73876698,263.9843,515
+Tucson,04-2020,Rain,Light,12,Tucson,04-2020,3.73876698,263.9843,515
+Tucson,04-2020,Storm,Severe,1,Tucson,04-2020,3.73876698,263.9843,515
+Tucson,04-2021,Rain,Light,15,Tucson,04-2021,3.822781774,317.5635,764
+Tucson,05-2019,Fog,Moderate,22,Tucson,05-2019,3.790130568,331.4209,881
+Tucson,05-2019,Fog,Severe,4,Tucson,05-2019,3.790130568,331.4209,881
+Tucson,05-2019,Rain,Light,52,Tucson,05-2019,3.790130568,331.4209,881
+Tucson,05-2019,Storm,Severe,3,Tucson,05-2019,3.790130568,331.4209,881
+Tucson,05-2020,Cold,Severe,1,Tucson,05-2020,3.768634686,278.5594,645
+Tucson,05-2020,Fog,Severe,2,Tucson,05-2020,3.768634686,278.5594,645
+Tucson,05-2020,Rain,Light,6,Tucson,05-2020,3.768634686,278.5594,645
+Tucson,05-2020,Storm,Severe,1,Tucson,05-2020,3.768634686,278.5594,645
+Tucson,05-2021,Cold,Severe,2,Tucson,05-2021,3.809134615,298.6048,769
+Tucson,05-2021,Fog,Severe,2,Tucson,05-2021,3.809134615,298.6048,769
+Tucson,05-2021,Rain,Light,6,Tucson,05-2021,3.809134615,298.6048,769
+Tucson,06-2019,Cold,Severe,5,Tucson,06-2019,3.791329904,321.5287,908
+Tucson,06-2019,Fog,Moderate,10,Tucson,06-2019,3.791329904,321.5287,908
+Tucson,06-2019,Rain,Light,6,Tucson,06-2019,3.791329904,321.5287,908
+Tucson,06-2020,Cold,Severe,2,Tucson,06-2020,3.767010309,278.8495,670
+Tucson,06-2020,Fog,Moderate,8,Tucson,06-2020,3.767010309,278.8495,670
+Tucson,06-2020,Rain,Heavy,2,Tucson,06-2020,3.767010309,278.8495,670
+Tucson,06-2020,Rain,Light,12,Tucson,06-2020,3.767010309,278.8495,670
+Tucson,06-2020,Storm,Severe,6,Tucson,06-2020,3.767010309,278.8495,670
+Tucson,06-2021,Cold,Severe,8,Tucson,06-2021,3.821041774,310.361,750
+Tucson,06-2021,Fog,Moderate,2,Tucson,06-2021,3.821041774,310.361,750
+Tucson,06-2021,Rain,Light,16,Tucson,06-2021,3.821041774,310.361,750
+Tucson,06-2021,Storm,Severe,1,Tucson,06-2021,3.821041774,310.361,750
+Tucson,07-2019,Cold,Severe,1,Tucson,07-2019,3.761674718,341.5886,854
+Tucson,07-2019,Rain,Light,2,Tucson,07-2019,3.761674718,341.5886,854
+Tucson,07-2020,Cold,Severe,2,Tucson,07-2020,3.809570957,288.6007,681
+Tucson,07-2020,Rain,Light,2,Tucson,07-2020,3.809570957,288.6007,681
+Tucson,07-2020,Storm,Severe,1,Tucson,07-2020,3.809570957,288.6007,681
+Tucson,07-2021,Cold,Severe,14,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Fog,Moderate,2,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Fog,Severe,4,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Precipitation,UNK,10,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Rain,Heavy,4,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Rain,Light,168,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Rain,Moderate,14,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,07-2021,Storm,Severe,6,Tucson,07-2021,3.838227442,290.6588,760
+Tucson,08-2019,Cold,Severe,5,Tucson,08-2019,3.783339559,329.3388,858
+Tucson,08-2019,Fog,Moderate,20,Tucson,08-2019,3.783339559,329.3388,858
+Tucson,08-2019,Fog,Severe,6,Tucson,08-2019,3.783339559,329.3388,858
+Tucson,08-2019,Precipitation,UNK,6,Tucson,08-2019,3.783339559,329.3388,858
+Tucson,08-2019,Rain,Light,81,Tucson,08-2019,3.783339559,329.3388,858
+Tucson,08-2020,Cold,Severe,1,Tucson,08-2020,3.810365853,299.7707,711
+Tucson,08-2020,Fog,Moderate,2,Tucson,08-2020,3.810365853,299.7707,711
+Tucson,08-2020,Rain,Light,38,Tucson,08-2020,3.810365853,299.7707,711
+Tucson,08-2020,Storm,Severe,1,Tucson,08-2020,3.810365853,299.7707,711
+Tucson,08-2021,Cold,Severe,74,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,08-2021,Fog,Moderate,2,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,08-2021,Precipitation,UNK,10,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,08-2021,Rain,Heavy,4,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,08-2021,Rain,Light,71,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,08-2021,Rain,Moderate,10,Tucson,08-2021,3.800495321,288.6142,721
+Tucson,09-2019,Cold,Severe,4,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Fog,Moderate,6,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Fog,Severe,2,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Precipitation,UNK,2,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Rain,Light,88,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Rain,Moderate,10,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2019,Storm,Severe,2,Tucson,09-2019,3.796694214,327.8264,856
+Tucson,09-2020,Cold,Severe,1,Tucson,09-2020,3.839308176,307.3572,659
+Tucson,09-2020,Rain,Light,4,Tucson,09-2020,3.839308176,307.3572,659
+Tucson,09-2020,Storm,Severe,1,Tucson,09-2020,3.839308176,307.3572,659
+Tucson,09-2021,Cold,Severe,18,Tucson,09-2021,3.807765754,309.4774,698
+Tucson,09-2021,Fog,Moderate,14,Tucson,09-2021,3.807765754,309.4774,698
+Tucson,09-2021,Fog,Severe,8,Tucson,09-2021,3.807765754,309.4774,698
+Tucson,09-2021,Rain,Light,43,Tucson,09-2021,3.807765754,309.4774,698
+Tucson,09-2021,Storm,Severe,6,Tucson,09-2021,3.807765754,309.4774,698
+Tucson,10-2019,Rain,Light,6,Tucson,10-2019,3.817052631,318.0223,817
+Tucson,10-2020,Cold,Severe,3,Tucson,10-2020,3.824956165,317.4506,722
+Tucson,10-2020,Fog,Severe,2,Tucson,10-2020,3.824956165,317.4506,722
+Tucson,10-2020,Rain,Light,6,Tucson,10-2020,3.824956165,317.4506,722
+Tucson,10-2021,Cold,Severe,28,Tucson,10-2021,3.844657534,312.2323,749
+Tucson,10-2021,Fog,Moderate,9,Tucson,10-2021,3.844657534,312.2323,749
+Tucson,10-2021,Precipitation,UNK,2,Tucson,10-2021,3.844657534,312.2323,749
+Tucson,10-2021,Rain,Light,14,Tucson,10-2021,3.844657534,312.2323,749
+Tucson,10-2021,Storm,Severe,3,Tucson,10-2021,3.844657534,312.2323,749
+Tucson,11-2019,Cold,Severe,5,Tucson,11-2019,3.803724928,322.0759,799
+Tucson,11-2019,Fog,Moderate,4,Tucson,11-2019,3.803724928,322.0759,799
+Tucson,11-2019,Rain,Heavy,4,Tucson,11-2019,3.803724928,322.0759,799
+Tucson,11-2019,Rain,Light,108,Tucson,11-2019,3.803724928,322.0759,799
+Tucson,11-2019,Rain,Moderate,12,Tucson,11-2019,3.803724928,322.0759,799
+Tucson,11-2020,Cold,Severe,36,Tucson,11-2020,3.84090909,298.3792,669
+Tucson,11-2020,Rain,Light,8,Tucson,11-2020,3.84090909,298.3792,669
+Tucson,11-2020,Storm,Severe,1,Tucson,11-2020,3.84090909,298.3792,669
+Tucson,11-2021,Cold,Severe,22,Tucson,11-2021,3.854783599,299.1771,734
+Tucson,11-2021,Fog,Moderate,4,Tucson,11-2021,3.854783599,299.1771,734
+Tucson,11-2021,Fog,Severe,4,Tucson,11-2021,3.854783599,299.1771,734
+Tucson,11-2021,Rain,Light,12,Tucson,11-2021,3.854783599,299.1771,734
+Tucson,11-2021,Storm,Severe,10,Tucson,11-2021,3.854783599,299.1771,734
+Tucson,12-2019,Cold,Severe,6,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2019,Fog,Moderate,3,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2019,Fog,Severe,4,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2019,Precipitation,UNK,2,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2019,Rain,Light,80,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2019,Rain,Moderate,8,Tucson,12-2019,3.809103576,323.3047,827
+Tucson,12-2020,Cold,Severe,8,Tucson,12-2020,3.842857142,292.0825,689
+Tucson,12-2020,Rain,Light,30,Tucson,12-2020,3.842857142,292.0825,689
+Tucson,12-2020,Rain,Moderate,2,Tucson,12-2020,3.842857142,292.0825,689
+Tucson,12-2021,Cold,Severe,1,Tucson,12-2021,3.825786858,294.392,759
+Tucson,12-2021,Fog,Moderate,1,Tucson,12-2021,3.825786858,294.392,759
+Tucson,12-2021,Rain,Light,66,Tucson,12-2021,3.825786858,294.392,759
+Tucson,12-2021,Rain,Moderate,8,Tucson,12-2021,3.825786858,294.392,759
+Tucson,12-2021,Storm,Severe,8,Tucson,12-2021,3.825786858,294.392,759
